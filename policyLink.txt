@@ -275,7 +275,6 @@ https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-180
 https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-1800-38c-preliminary-draft.pdf
 https://www.nccoe.nist.gov/sites/default/files/2023-04/pqc-migration-nist-sp-1800-38a-preliminary-draft.pdf
 https://www.nccoe.nist.gov/sites/default/files/2023-04/data-class-nist-sp-1800-39a-preliminary-draft.pdf
-https://www.nccoe.nist.gov/publications/practice-guide/automation-nist-cryptographic-module-validation-program-nist-sp-1800-40
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-304.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-320.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-325.pdf
