@@ -1,0 +1,1038 @@
+,Title,Series,Number,Status,Release Date,PDF Link
+0,Product Development Cybersecurity Handbook: Concepts and Considerations for IoT Product Manufacturers,CSWP,33,Draft,4/03/2024,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.33.ipd.pdf
+1,NIST Cybersecurity Framework 2.0: A Guide to Creating Community Profiles,CSWP,32,Draft,2/26/2024,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.32.ipd.pdf
+2,Combinatorial Coverage Difference Measurement,CSWP,19,Draft,6/22/2021,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.06222021-draft.pdf
+3,Establishing Confidence in IoT Device Security: How do we get there?,CSWP,18,Draft,5/14/2021,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.05142021-draft.pdf
+4,Securing Data Integrity Against Ransomware Attacks: Using the NIST Cybersecurity Framework and NIST Cybersecurity Practice Guides,CSWP,17,Draft,10/01/2020,https://nvlpubs.nist.gov/nistpubs/cswp/NIST.CSWP.10012020-draft.pdf
+5,Trusted Internet of Things (IoT) Device Network-Layer Onboarding and Lifecycle Management,CSWP,16,Draft,9/08/2020,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.09082020-draft.pdf
+6,Module-Lattice-Based Key-Encapsulation Mechanism Standard,FIPS,203,Draft,8/24/2023,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.ipd.pdf
+7,Stateless Hash-Based Digital Signature Standard,FIPS,205,Draft,8/24/2023,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.ipd.pdf
+8,Module-Lattice-Based Digital Signature Standard,FIPS,204,Draft,8/24/2023,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.ipd.pdf
+9,Proposal of Requirements for an Accordion Mode: Discussion Draft for the NIST Accordion Mode Workshop 2024,Other,,Draft,4/10/2024,https://csrc.nist.gov/files/pubs/other/2024/04/10/proposal-of-requirements-for-an-accordion-mode-dis/iprd/docs/proposal-of-requirements-for-an-accordion-mode-discussion-draft.pdf
+10,Toward a PEC Use-Case Suite,Other,,Draft,1/21/2021,https://csrc.nist.gov/CSRC/media/Projects/pec/documents/suite-draft1.pdf
+11,An Application of Combinatorial Methods for Explainability in Artificial Intelligence and Machine Learning,Other,,Draft,5/22/2019,https://csrc.nist.gov/files/pubs/other/2019/05/22/combinatorial-methods-for-explainability-in-ai-and/ipd/docs/combinatorial-methods-explainability-ai-ml-draft.pdf
+12,Internet of Things (IoT) Trust Concerns,Other,,Draft,10/17/2018,https://csrc.nist.gov/files/pubs/other/2018/10/17/iot-trust-concerns/ipd/docs/iot-trust-concerns-draft.pdf
+13,Cybersecurity for Smart Inverters: Guidelines for Residential and Light Commercial Solar Energy Systems,IR,8498,Draft,5/10/2024,https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8498.ipd.pdf
+14,Recommended Cybersecurity Requirements for Consumer-Grade Router Products,IR,8425A,Draft,4/17/2024,https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8425A.ipd.pdf
+15,A Security Perspective on the Web3 Paradigm,IR,8475,Draft,4/11/2024,https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8475.ipd.pdf
+16,PRE-DRAFT Call for Comments | Small Business Information Security: The Fundamentals,IR,7621 Rev. 2,Draft,3/18/2024,https://csrc.nist.gov/pubs/ir/7621/r1/final
+17,Data Classification Concepts and Considerations for Improving Data Collection,IR,8496,Draft,11/15/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8496.ipd.pdf
+18,Cybersecurity for Research: Findings and Possible Paths Forward,IR,8481,Draft,8/31/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8481.ipd.pdf
+19,Cybersecurity Framework Profile for Genomic Data,IR,8467,Draft,6/15/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8467.ipd.pdf
+20,State Machine Replication and Consensus with Byzantine Adversaries,IR,8460,Draft,4/26/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8460.ipd.pdf
+21,Report on the Block Cipher Modes of Operation in the NIST SP 800-38 Series,IR,8459,Draft,3/21/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8459.ipd.pdf
+22,Hardware-Enabled Security: Hardware-Based Confidential Computing,IR,8320D,Draft,2/23/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8320D.ipd.pdf
+23,NIST First Call for Multi-Party Threshold Schemes,IR,8214C,Draft,1/25/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8214C.ipd.pdf
+24,Notes on Threshold EdDSA/Schnorr Signatures,IR,8214B,Draft,8/12/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8214B.ipd.pdf
+25,Hardware-Enabled Security: Machine Identity Management and Protection,IR,8320C,Draft,4/20/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8320C.ipd.pdf
+26,Methodology for Characterizing Network Behavior of Internet of Things Devices,IR,8349,Draft,1/11/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8349-draft.pdf
+27,Identity as a Service for  Public Safety Organizations,IR,8335,Draft,6/16/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8335-draft.pdf
+28,Background on Identity Federation Technologies for the Public Safety Community,IR,8336,Draft,6/09/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8336-draft.pdf
+29,Using Mobile Device Biometrics for Authenticating First Responders,IR,8334,Draft,6/02/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8334-draft.pdf
+30,Considerations for Digital Twin Technology and Emerging Standards,IR,8356,Draft,4/16/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8356-draft.pdf
+31,Ontology for Authentication,IR,8344,Draft,2/08/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8344-draft.pdf
+32,Creating a Profile Using the IoT Core Baseline and Non-Technical Baseline,IR,8259C,Draft,12/15/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8259c-draft.pdf
+33,Security Review of Consumer Home Internet of Things (IoT) Products,IR,8267,Draft,10/01/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8267-draft.pdf
+34,A Reference for Randomness Beacons: Format and Protocol Version 2,IR,8213,Draft,5/06/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8213-draft.pdf
+35,National Initiative for Cybersecurity Education (NICE) Framework Work Role Capability Indicators: Indicators for Performing Work Roles,IR,8193,Draft,11/08/2017,https://csrc.nist.gov/files/pubs/ir/8193/ipd/docs/nistir8193-draft.pdf
+36,Identifying Uniformity with Entropy and Divergence,IR,8139,Draft,2/02/2017,https://csrc.nist.gov/files/pubs/ir/8139/ipd/docs/nistir8139-draft.pdf
+37,Assessing Threats to Mobile Devices & Infrastructure: the Mobile Threat Catalogue,IR,8144,Draft,9/12/2016,https://csrc.nist.gov/files/pubs/ir/8144/ipd/docs/nistir8144_draft.pdf
+38,Forming Common Platform Enumeration (CPE) Names from Software Identification (SWID) Tags,IR,8085,Draft,12/17/2015,https://csrc.nist.gov/files/pubs/ir/8085/ipd/docs/nistir_8085_draft.pdf
+39,Security Content Automation Protocol (SCAP) Version 1.2 Content Style Guide: Best Practices for Creating and Maintaining SCAP 1.2 Content,IR,8058,Draft,5/01/2015,https://csrc.nist.gov/files/pubs/ir/8058/ipd/docs/nistir_8058_draft.pdf
+40,Specification for the Asset Summary Reporting Format 1.0,IR,7848,Draft,5/07/2012,https://csrc.nist.gov/files/pubs/ir/7848/ipd/docs/draft_nistir_7848.pdf
+41,Trusted Internet of Things (IoT) Device Network-Layer Onboarding and Lifecycle Management: Enhancing Internet Protocol-Based IoT Device and Network Security,SP,1800-36,Draft,5/31/2024,https://www.nccoe.nist.gov/sites/default/files/2024-05/nist-sp-1800-36a-draft.pdf
+42,Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile,SP,800-218A,Draft,4/29/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218A.ipd.pdf
+43,Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile,SP,800-61 Rev. 3,Draft,4/03/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r3.ipd.pdf
+44,NIST Cybersecurity Framework 2.0: Enterprise Risk Management Quick-Start Guide,SP,1303,Draft,2/26/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1303.ipd.pdf
+45,NIST Cybersecurity Framework 2.0: Quick-Start Guide for Cybersecurity Supply Chain Risk Management (C-SCRM),SP,1305,Draft,2/26/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1305.ipd.pdf
+46,NIST Cybersecurity Framework 2.0: Quick-Start Guide for Using the CSF Tiers,SP,1302,Draft,2/26/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1302.ipd.pdf
+47,Guide for Mapping Types of Information and Systems to Security Categories,SP,800-60 Rev. 2,Draft,1/31/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-60r2.iwd.pdf
+48,Addressing Visibility Challenges with TLS 1.3 within the Enterprise,SP,1800-37,Draft,1/30/2024,https://www.nccoe.nist.gov/sites/default/files/2024-01/tls-nist-sp-1800-37a-preliminary-draft-2.pdf
+49,Measurement Guide for Information Security: Volume 1 — Identifying and Selecting Measures,SP,800-55 Vol. 1,Draft,1/17/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-55v1.ipd.pdf
+50,Measurement Guide for Information Security: Volume 2 — Developing an Information Security Measurement Program,SP,800-55 Vol. 2,Draft,1/17/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-55v2.ipd.pdf
+51,PRE-DRAFT Call for Comments | Information Security Handbook: A Guide for Managers,SP,800-100 Rev. 1,Draft,1/09/2024,https://doi.org/10.6028/NIST.SP.800-100
+52,Migration to Post-Quantum Cryptography: Preparation for Considering the Implementation and Adoption of Quantum Safe Cryptography,SP,1800-38,Draft,12/19/2023,https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-1800-38b-preliminary-draft.pdf
+53,Guidelines for the Authorization of PIV Card and Derived PIV Credential Issuers,SP,800-79 Rev. 3,Draft,12/13/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-79r3.ipd.pdf
+54,Guidelines for Evaluating Differential Privacy Guarantees,SP,800-226,Draft,12/11/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-226.ipd.pdf
+55,Cybersecurity Log Management Planning Guide,SP,800-92 Rev. 1,Draft,10/11/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-92r1.ipd.pdf
+56,"Interfaces for Personal Identity Verification: Part 1 – PIV Card Application Namespace, Data Model and Representation",SP,800-73-5,Draft,9/27/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-73pt1-5.ipd.pdf
+57,Cryptographic Algorithms and Key Sizes for Personal Identity Verification,SP,800-78-5,Draft,9/27/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-78-5.ipd.pdf
+58,Interfaces for Personal Identity Verification: Part 2 – PIV Card Application Card Command Interface,SP,800-73-5,Draft,9/27/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-73pt2-5.ipd.pdf
+59,Interfaces for Personal Identity Verification: Part 3 – PIV Client Application Programming Interface,SP,800-73-5,Draft,9/27/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-73pt3-5.ipd.pdf
+60,"Implementing a Zero Trust Architecture (Volume E, Risk and Compliance Management)",SP,1800-35,Draft,9/12/2023,https://www.nccoe.nist.gov/sites/default/files/2023-09/zta-nist-sp-1800-35e-preliminary-draft-2.pdf
+61,Building a Cybersecurity and Privacy Learning Program,SP,800-50 Rev. 1,Draft,8/28/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-50r1.ipd.pdf
+62,Implementing a Zero Trust Architecture,SP,1800-35,Draft,8/22/2023,https://www.nccoe.nist.gov/sites/default/files/2023-08/zta-nist-sp-1800-35d-preliminary-draft-3.pdf
+63,Automation of the NIST Cryptographic Module Validation Program,SP,1800-40,Draft,6/07/2023,https://www.nccoe.nist.gov/publications/practice-guide/automation-nist-cryptographic-module-validation-program-nist-sp-1800-40
+64,Implementing Data Classification Practices,SP,1800-39,Draft,4/25/2023,https://www.nccoe.nist.gov/sites/default/files/2023-04/data-class-nist-sp-1800-39a-preliminary-draft.pdf
+65,NIST Cloud Computing Forensic Reference Architecture,SP,800-201,Draft,2/08/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-201.ipd.pdf
+66,Guidelines for Derived Personal Identity Verification (PIV) Credentials,SP,800-157 Rev. 1,Draft,1/10/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-157r1.ipd.pdf
+67,Guidelines for Personal Identity Verification (PIV) Federation,SP,800-217,Draft,1/10/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-217.ipd.pdf
+68,Digital Identity Guidelines: Authentication and Lifecycle Management,SP,800-63B-4,Draft,12/16/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63B-4.ipd.pdf
+69,Digital Identity Guidelines: Enrollment and Identity Proofing,SP,800-63A-4,Draft,12/16/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63A-4.ipd.pdf
+70,Digital Identity Guidelines,SP,800-63-4,Draft,12/16/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-4.ipd.pdf
+71,Digital Identity Guidelines: Federation and Assertions,SP,800-63C-4,Draft,12/16/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63C-4.ipd.pdf
+72,Recommendation for Random Bit Generator (RBG) Constructions,SP,800-90C,Draft,9/07/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90C.3pd.pdf
+73,5G Cybersecurity,SP,1800-33,Draft,4/25/2022,https://www.nccoe.nist.gov/sites/default/files/2022-04/nist-5G-sp1800-33b-preliminary-draft.pdf
+74,CMVP Approved Non-Invasive Attack Mitigation Test Metrics: CMVP Validation Authority Updates to ISO/IEC 24759,SP,800-140F Rev. 1,Draft,8/20/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140Fr1-draft.pdf
+75,Recommendation for Block Cipher Modes of Operation: Methods for Format-Preserving Encryption,SP,800-38G Rev. 1,Draft,2/28/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38Gr1-draft.pdf
+76,Recommendation for Key Establishment Using Symmetric Block Ciphers,SP,800-71,Draft,7/02/2018,https://csrc.nist.gov/files/pubs/sp/800/71/ipd/docs/sp800-71-draft.pdf
+77,Guide to Data-Centric System Threat Modeling,SP,800-154,Draft,3/14/2016,https://csrc.nist.gov/files/pubs/sp/800/154/ipd/docs/sp800_154_draft.pdf
+78,"NIST Definition of Microservices, Application Containers and System Virtual Machines",SP,800-180,Draft,2/18/2016,https://csrc.nist.gov/files/pubs/sp/800/180/ipd/docs/sp800-180_draft.pdf
+79,A Role-Based Model for Federal Information Technology/Cybersecurity Training,SP,800-16 Rev. 1,Draft,3/14/2014,https://csrc.nist.gov/files/pubs/sp/800/16/r1/3pd/docs/sp800_16_rev1_3rd-draft.pdf
+80,BIOS Integrity Measurement Guidelines,SP,800-155,Draft,12/08/2011,https://csrc.nist.gov/files/pubs/sp/800/155/ipd/docs/draft-sp800-155_dec2011.pdf
+81,Secure IPv6-Only Implementation in the Enterprise,Project Description,,Draft,12/09/2021,https://www.nccoe.nist.gov/sites/default/files/2021-12/ipv6-project-description-draft.pdf
+82,Improving Cybersecurity of Managed Service Providers (Supporting Small- and Medium-Sized Businesses),Project Description,,Draft,10/08/2019,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/msp-ic-project-description-draft.pdf
+83,Continuous Monitoring for IT Infrastructure: Techniques for auditing user activity and detecting irregular activity events within small and medium-size businesses,Project Description,,Draft,6/17/2019,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/cont-mont-project-description-draft.pdf
+84,Security for IoT Sensor Networks: Building Management Case Study,Project Description,,Draft,2/01/2019,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/iot-sniot-sensor-network-project-description-draft.pdf
+85,Privileged Account Management: Securing Privileged Accounts for the Financial Services Sector,Project Description,,Draft,10/12/2017,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/fs-pam-project-description-draft.pdf
+86,Authentication for Law Enforcement Vehicle Systems,Project Description,,Draft,9/13/2016,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/psfr-alevs-project-description-draft.pdf
+87,"Securing Non-Credit Card, Sensitive Consumer Data: Consumer Data Security for the Retail Sector",Project Description,,Draft,5/09/2016,https://www.nccoe.nist.gov/sites/default/files/legacy-files/cr-securing-consumer-data-project-description-draft.pdf
+88,Cybersecurity Framework Election Infrastructure Profile,VTS,200-1,Final,2/01/2024,https://nvlpubs.nist.gov/nistpubs/vts/NIST.VTS.200-1.pdf
+89,Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations,AI,100-2 E2023,Final,1/04/2024,https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf
+90,Survey and New Directions for Physics-Based Attack Detection in Control Systems,GCR,16-010,Final,11/21/2016,https://nvlpubs.nist.gov/nistpubs/gcr/2016/NIST.GCR.16-010.pdf
+91,Attribute Based Access Control,Book,,Final,10/01/2017,https://csrc.nist.govhttp://us.artechhouse.com/Attribute-Based-Access-Control-P1911.aspx
+92,Introduction to Combinatorial Testing,Book,,Final,6/20/2013,https://www.crcpress.com/Introduction-to-Combinatorial-Testing/Kuhn-Kacker-Lei/p/book/9781466552296
+93,Role-Based Access Control (2nd ed.),Book,,Final,1/31/2007,https://csrc.nist.govhttp://us.artechhouse.com/Role-Based-Access-Control-Second-Edition-P1386.aspx
+94,Role-Based Access Control (1st ed.),Book,,Final,1/01/2003,https://csrc.nist.govhttp://www.linuxjournal.com/article/6938
+95,Executive Guide to Computer Security,Book,,Final,1/01/1974,https://csrc.nist.gov/files/pubs/book/1974/01/executive-guide-to-computer-security/final/docs/executive-guide-to-computer-security--brochure.pdf
+96,NIST Phish Scale User Guide,TN,2276,Final,11/15/2023,https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2276.pdf
+97,BGP Secure Routing Extension (BGP-SRx): Reference Implementation and Test Tools for Emerging BGP Security Standards,TN,2060,Final,9/15/2021,https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2060.pdf
+98,An Empirical Study on Flow-based Botnet Attacks Prediction,TN,2111,Final,10/22/2020,https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2111.pdf
+99,Cybersecurity Framework Smart Grid Profile,TN,2051,Final,7/09/2019,https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2051.pdf
+100,A Methodology for Evaluating Alternative Technical and Information Management Approaches to Privacy Requirements,TN,906,Final,6/01/1976,https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote906.pdf
+101,Exploring Privacy and Data Security Costs: A Summary of a Workshop,TN,876,Final,8/01/1975,https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote876.pdf
+102,Controlled Accessibility Workshop Report,TN,827,Final,5/01/1974,https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote827.pdf
+103,"Government Looks at Privacy and Security in Computer Systems: Summary of a Conference held at the National Bureau of Standards, Gaithersburg, Maryland, November 19-20, 1973",TN,809,Final,2/01/1974,https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote809.pdf
+104,Controlled Accessibility Bibliography,TN,780,Final,6/01/1973,https://nvlpubs.nist.gov/nistpubs/Legacy/TN/nbstechnicalnote780.pdf
+105,The NIST Cybersecurity Framework (CSF) 2.0,CSWP,29,Final,2/26/2024,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
+106,Automation Support for Control Assessments: Project Update and Vision,CSWP,30,Final,12/06/2023,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.30.pdf
+107,Recommended Criteria for Cybersecurity Labeling of Consumer Software,CSWP,23,Final,2/04/2022,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042022-1.pdf
+108,Recommended Criteria for Cybersecurity Labeling for Consumer Internet of Things (IoT) Products,CSWP,24,Final,2/04/2022,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042022-2.pdf
+109,Benefits of an Updated Mapping between the NIST Cybersecurity Framework and the NERC Critical Infrastructure Protection Standards,CSWP,21,Final,9/29/2021,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.09292021.pdf
+110,Getting Ready for Post-Quantum Cryptography: Exploring Challenges Associated with Adopting and Using Post-Quantum Cryptographic Algorithms,CSWP,15,Final,4/28/2021,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04282021.pdf
+111,Case Studies in Cyber Supply Chain Risk Management: Anonymous Renewable Energy Company,CSWP,11C,Final,2/04/2020,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042020-4.pdf
+112,Case Studies in Cyber Supply Chain Risk Management: Anonymous Consumer Electronics Company,CSWP,11A,Final,2/04/2020,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042020-2.pdf
+113,Case Studies in Cyber Supply Chain Risk Management: Mayo Clinic,CSWP,11D,Final,2/04/2020,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042020-5.pdf
+114,"Case Studies in Cyber Supply Chain Risk Management: Palo Alto Networks, Inc.",CSWP,11E,Final,2/04/2020,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042020-6.pdf
+115,Case Studies in Cyber Supply Chain Risk Management: Anonymous Consumer Goods Company,CSWP,11B,Final,2/04/2020,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042020-3.pdf
+116,Case Studies in Cyber Supply Chain Risk Management: Seagate Technology,CSWP,11F,Final,2/04/2020,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042020-7.pdf
+117,"NIST Privacy Framework: A Tool for Improving Privacy Through Enterprise Risk Management, Version 1.0",CSWP,10,Final,1/16/2020,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.01162020.pdf
+118,A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems,CSWP,9,Final,1/14/2020,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.01142020.pdf
+119,BowTie – A deep learning feedforward neural network for sentiment analysis,CSWP,8,Final,4/22/2019,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04222019.pdf
+120,Security Considerations for Code Signing,CSWP,5,Final,1/26/2018,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.01262018.pdf
+121,Best Practices for Privileged User PIV Authentication,CSWP,4,Final,4/21/2016,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04212016.pdf
+122,"Summary of NIST SP 800-53, Revision 4: Security and Privacy Controls for Federal Information Systems and Organizations",CSWP,2,Final,2/19/2014,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02192014.pdf
+123,"Framework for Improving Critical Infrastructure Cybersecurity, Version 1.0",CSWP,1,Final,2/12/2014,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02122014.pdf
+124,Advanced Encryption Standard (AES),FIPS,197,Final,5/09/2023,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197-upd1.pdf
+125,Digital Signature Standard (DSS),FIPS,186-5,Final,2/03/2023,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-5.pdf
+126,Personal Identity Verification (PIV) of Federal Employees and Contractors,FIPS,201-3,Final,1/24/2022,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-3.pdf
+127,Security Requirements for Cryptographic Modules,FIPS,140-3,Final,3/22/2019,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-3.pdf
+128,Secure Hash Standard (SHS),FIPS,180-4,Final,8/04/2015,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
+129,SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions,FIPS,202,Final,8/04/2015,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf
+130,The Keyed-Hash Message Authentication Code (HMAC),FIPS,198-1,Final,7/16/2008,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.198-1.pdf
+131,Minimum Security Requirements for Federal Information and Information Systems,FIPS,200,Final,3/01/2006,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf
+132,Standards for Security Categorization of Federal Information and Information Systems,FIPS,199,Final,2/01/2004,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf
+133,Security Requirements for Cryptographic Modules,FIPS,140-2,Final,12/03/2002,https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf
+134,Handout | Users Are Not Stupid: Six Cybersecurity Pitfalls Overturned,Other,,Final,1/30/2023,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=936113
+135,Resistance of Ascon Family against Conditional Cube Attacks in Nonce-Misuse Setting,Other,,Final,10/25/2022,https://eprint.iacr.org/2022/1456
+136,Software Security in Supply Chains,Other,,Final,5/05/2022,https://www.nist.gov/document/guidance-supply-chain-security-under-eo-14028-section-4c4d
+137,Coalition and Threshold Hash-Based Signatures,Other,,Final,2/25/2022,https://eprint.iacr.org/archive/2022/241/20220225:081240
+138,Getting Started with Cybersecurity Risk Management: Ransomware,Other,,Final,2/24/2022,https://csrc.nist.gov/files/pubs/other/2022/02/24/getting-started-with-cybersecurity-risk-management/final/docs/quick-start-guide--ransomware.pdf
+139,Software Supply Chain Security Guidance Under Executive Order (EO) 14028 Section 4e,Other,,Final,2/04/2022,https://www.nist.gov/document/software-supply-chain-security-guidance-under-executive-order-eo-14028-section-4e
+140,Privacy-enhancing cryptography tools to complement differential privacy techniques,Other,,Final,11/03/2021,https://www.nist.gov/blogs/cybersecurity-insights/privacy-enhancing-cryptography-complement-differential-privacy
+141,On the Multiplicative Complexity of Cubic Boolean Functions,Other,,Final,8/11/2021,https://eprint.iacr.org/2021/1041
+142,On the Effect of Projection on Rank Attacks in Multivariate Cryptography,Other,,Final,5/19/2021,https://eprint.iacr.org/2021/655
+143,Recovering the Key from the Internal State of Grain-128AEAD,Other,,Final,4/03/2021,https://eprint.iacr.org/2021/439
+144,New Practical Multivariate Signatures from a Nonlinear Modifier,Other,,Final,4/01/2021,https://eprint.iacr.org/2021/429
+145,Can you tell? SSNet - a Sagittal Stratum-inspired Neural Network Framework for Sentiment Analysis,Other,,Final,3/04/2021,https://arxiv.org/abs/2006.12958v3
+146,The membership problem for constant-sized quantum correlations is undecidable,Other,,Final,1/26/2021,https://arxiv.org/pdf/2101.11087.pdf
+147,Observations on COMET,Other,,Final,11/16/2020,https://eprint.iacr.org/2020/1445
+148,Rainbow Band Separation is Better than we Thought,Other,,Final,6/20/2020,https://eprint.iacr.org/2020/702
+149,"Protecting Data from Ransomware and Other Data Loss Events: A Guide for Managed Service Providers to Conduct, Maintain, and Test Backup Files",Other,,Final,4/24/2020,https://www.nccoe.nist.gov/sites/default/files/library/supplemental-files/msp-protecting-data-extended.pdf
+150,On the Profitability of Selfish Mining Against Multiple Difficulty Adjustment Algorithms,Other,,Final,1/29/2020,https://eprint.iacr.org/2020/094
+151,A Nonlinear Multivariate Cryptosystem Based on a Random Linear Code,Other,,Final,11/24/2019,https://eprint.iacr.org/2019/1355
+152,Human Factors in Smart Home Technologies Workshop Summary,Other,,Final,11/05/2019,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=929080
+153,Practical Cryptanalysis of k-ary C*,Other,,Final,7/18/2019,https://eprint.iacr.org/2019/841
+154,Extracting Linearization Equations from Noisy Sources,Other,,Final,5/31/2018,https://eprint.iacr.org/2018/539
+155,A Report to the President on Supporting the Growth and Sustainment of the Nation's Cybersecurity Workforce: Building the Foundation for a More Secure American Future,Other,,Final,5/30/2018,https://www.nist.gov/itl/applied-cybersecurity/nice/resources/executive-order-13800/supporting-growth-and-sustainment
+156,"A Report to the President on Enhancing the Resilience of the Internet and Communications Ecosystem Against Botnets and Other Automated, Distributed Threats",Other,,Final,5/30/2018,https://csrc.nist.gov/files/pubs/other/2018/05/30/enhancing-resilience-against-botnetsreport-to-the-/final/docs/eo_13800_botnet_report_-_finalv2.pdf
+157,NSRL Kaspersky dataset documentation,Other,,Final,10/23/2017,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=924629
+158,An Elementary Proof of Private Random Number Generation from Bell Inequalities,Other,,Final,7/20/2017,https://arxiv.org/abs/1707.06597
+159,SPHINCS-Simpira: Fast Stateless Hash-based Signatures with Post-quantum Security,Other,,Final,6/29/2017,https://eprint.iacr.org/2017/645
+160,Tightly Secure Short Signatures from Weak PRFs,Other,,Final,6/27/2017,https://ia.cr/2017/563
+161,Graphical Methods in Device-Independent Quantum Cryptography,Other,,Final,5/25/2017,https://arxiv.org/abs/1705.09213
+162,Baldrige Cybersecurity Excellence Builder: Key questions for improving your organization's cybersecurity performance,Other,,Final,4/02/2017,https://www.nist.gov/file/358966
+163,User's Guide to Running the Draft NIST SP 800-90B Entropy Estimation Suite,Other,,Final,5/12/2016,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=920697
+164,The Number of Boolean Functions with Multiplicative Complexity 2,Other,,Final,10/27/2015,https://ia.cr/2015/1041
+165,Multiplicative Complexity of Vector Value Boolean Functions,Other,,Final,9/21/2015,https://arxiv.org/abs/1407.6169
+166,Final Report: Leveraging the Cyber Risk Portal as A Teaching & Education Tool,Other,,Final,6/10/2015,https://csrc.nist.gov/files/pubs/other/2015/06/10/leveraging-cyber-risk-portal-as-a-teaching-and-edu/final/docs/final-report_cyber-risk-portal_umd.pdf
+167,Analysis of VAES3 (FF2),Other,,Final,4/02/2015,https://ia.cr/2015/306
+168,"Summary of the Workshop on Cryptographic Key Management Systems (CKMS), National Institute of Standards and Technology, September 10-11, 2012",Other,,Final,1/10/2013,https://csrc.nist.gov/csrc/media/events/cryptographic-key-management-workshop-2012/documents/ckms_workshop_summary2012_final.pdf
+169,Proof of Concept for an ICT SCRM Enterprise Assessment Package,Other,,Final,12/01/2012,https://csrc.nist.gov/files/pubs/other/2012/12/01/proof-of-concept-for-an-ict-scrm-enterprise-assess/final/docs/umd_ict_scrm_portal_report3.pdf
+170,Challenging Security Requirements for US Government Cloud Computing Adoption,Other,,Final,11/19/2012,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=912695
+171,The Role of the National Institute of Standards and Technology in Mobile Security,Other,,Final,8/23/2012,https://csrc.nist.gov/files/pubs/other/2012/08/23/the-role-of-nist-in-mobile-security/final/docs/nist-mobile-security-report.pdf
+172,The ICT SCRM Community Framework Development Project: Final Report,Other,,Final,12/01/2011,https://csrc.nist.gov/files/pubs/other/2011/12/01/ict-scrm-community-framework-development-project-f/final/docs/umd_ict_scrm_initiatives-report2-1.pdf
+173,A depth-16 circuit for the AES S-box,Other,,Final,6/17/2011,https://ia.cr/2011/332
+174,Assessing SCRM Capabilities and Perspectives of the IT Vendor Community: Toward a Cyber-Supply Chain Code of Practice,Other,,Final,4/01/2011,https://csrc.nist.gov/files/pubs/other/2011/04/01/assessing-scrm-capabilities-perspectives-it-vendor/final/docs/umd_cyber_scrm_report.pdf
+175,Economic Analysis of Role-Based Access Control: Final Report,Other,,Final,12/19/2010,https://csrc.nist.gov/files/pubs/other/2010/12/19/economic-analysis-of-rbac-final-report/final/docs/20101219_rbac2_final_report.pdf
+176,The Economic Impact of Role-Based Access Control,Other,,Final,3/01/2002,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=916549
+177,The Economic Impacts of NIST's Data Encryption Standard (DES) Program,Other,,Final,10/01/2001,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=918355
+178,Report on the Second Modes of Operation Workshop,Other,,Final,10/01/2001,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=922862
+179,Report on the Symmetric Key Block Cipher Modes of Operation Workshop,Other,,Final,12/01/2000,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=922863
+180,Federal Information Technology Security Assessment Framework,Other,,Final,11/28/2000,https://csrc.nist.gov/files/pubs/other/2000/11/28/federal-information-technology-security-assessment/final/docs/federal-it-saf-2000.pdf
+181,Report of the Workshop on Key Management Using Public Key Cryptography,Other,,Final,2/28/2000,https://csrc.nist.gov/files/pubs/other/2000/02/28/report-of-the-workshop-on-key-management-using-pub/final/docs/workshopreport.pdf
+182,Auditing Password Usage,Other,,Final,9/01/1988,https://www.gao.gov/assets/200/194419.pdf
+183,Access Control on NoSQL Databases,IR,8504,Final,5/07/2024,https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8504.pdf
+184,Staging Cybersecurity Risks for Enterprise Risk Management and Governance Oversight,IR,8286C,Final,3/06/2024,https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8286C-upd1.pdf
+185,Non-Fungible Token Security,IR,8472,Final,3/01/2024,https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8472.pdf
+186,"Mapping Relationships Between Documentary Standards, Regulations, Frameworks, and Guidelines: Developing Cybersecurity and Privacy Concept Mappings",IR,8477,Final,2/26/2024,https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8477.pdf
+187,"National Online Informative References (OLIR) Program: Overview, Benefits, and Use",IR,8278 Rev. 1,Final,2/26/2024,https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8278r1.pdf
+188,National Online Informative References (OLIR) Program: Submission Guidance for OLIR Developers,IR,8278A Rev. 1,Final,2/26/2024,https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8278Ar1.pdf
+189,Cybersecurity of Genomic Data,IR,8432,Final,12/20/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8432.pdf
+190,Overview and Considerations of Access Control Based on Attribute Encryption,IR,8450,Final,12/20/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8450-upd1.pdf
+191,Cybersecurity Framework Profile for Electric Vehicle Extreme Fast Charging Infrastructure,IR,8473,Final,10/16/2023,https://csrc.nist.govhttp://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8473.pdf
+192,Cybersecurity Framework Profile for Liquefied Natural Gas,IR,8406,Final,10/10/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8406-upd1.pdf
+193,3rd High-Performance Computing Security Workshop: Joint NIST-NSF Workshop Report,IR,8476,Final,9/26/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8476.pdf
+194,Cybersecurity Framework Profile for Hybrid Satellite Networks (HSN),IR,8441,Final,9/25/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8441.pdf
+195,Understanding Stablecoin Technology and Related Security Considerations,IR,8408,Final,9/05/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8408.pdf
+196,Introduction to Cybersecurity for Commercial Satellite Operations,IR,8270,Final,7/25/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8270.pdf
+197,NICE Framework Competency Areas: Preparing a Job-Ready Cybersecurity Workforce,IR,8355,Final,6/21/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8355.pdf
+198,Status Report on the Final Round of the NIST Lightweight Cryptography Standardization Process,IR,8454,Final,6/16/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8454.pdf
+199,Discussion on the Full Entropy Assumption of the SP 800-90 Series,IR,8427,Final,4/14/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8427.pdf
+200,"Foundational PNT Profile: Applying the Cybersecurity Framework for the Responsible Use of Positioning, Navigation, and Timing (PNT) Services",IR,8323 Rev. 1,Final,1/31/2023,https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8323r1.pdf
+201,Satellite Ground Segment: Applying the Cybersecurity Framework to Satellite Command and Control,IR,8401,Final,12/30/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8401.pdf
+202,Using Business Impact Analysis to Inform Risk Prioritization and Response,IR,8286D,Final,11/17/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8286D.pdf
+203,Measuring the Common Vulnerability Scoring System Base Score Equation,IR,8409,Final,11/15/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8409.pdf
+204,Status Report on the Third Round of the NIST Post-Quantum Cryptography Standardization Process,IR,8413,Final,9/29/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8413-upd1.pdf
+205,Workshop Summary Report for “Building on the NIST Foundations: Next Steps in IoT Cybersecurity”,IR,8431,Final,9/20/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8431.pdf
+206,Profile of the IoT Core Baseline for Consumer IoT Products,IR,8425,Final,9/20/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8425.pdf
+207,Security Guidance for First Responder Mobile and Wearable Devices,IR,8235,Final,7/20/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8235.pdf
+208,Blockchain for Access Control Systems,IR,8403,Final,5/26/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8403.pdf
+209,Hardware-Enabled Security: Enabling a Layered Approach to Platform Security for Cloud and Edge Computing Use Cases,IR,8320,Final,5/04/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8320.pdf
+210,Hardware-Enabled Security: Policy-Based Governance in Trusted Container Platforms,IR,8320B,Final,4/20/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8320B.pdf
+211,Blockchain and Related Technologies to Support Manufacturing Supply Chain Traceability: Needs and Industry Perspectives,IR,8419,Final,4/07/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8419.pdf
+212,Federal Cybersecurity Awareness Programs: A Mixed Methods Research Study,IR,8420,Final,3/25/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8420.pdf
+213,Approaches and Challenges of Federal Cybersecurity Awareness Programs,IR,8420A,Final,3/25/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8420A.pdf
+214,"The Federal Cybersecurity Awareness Workforce: Professional Backgrounds, Knowledge, Skills, and Development Activities",IR,8420B,Final,3/25/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8420B.pdf
+215,Ransomware Risk Management: A Cybersecurity Framework Profile,IR,8374,Final,2/23/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8374.pdf
+216,Prioritizing Cybersecurity Risk for Enterprise Risk Management,IR,8286B,Final,2/10/2022,https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8286B.pdf
+217,Identifying and Estimating Cybersecurity Risk for Enterprise Risk Management,IR,8286A,Final,11/12/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8286A.pdf
+218,Guidelines on Minimum Standards for Developer Verification of Software,IR,8397,Final,10/06/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8397.pdf
+219,Machine Learning for Access Control Policy Verification,IR,8360,Final,9/16/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8360.pdf
+220,Summary Report for the Virtual Workshop Addressing Public Comment on NIST Cybersecurity for IoT Guidance,IR,8379,Final,9/09/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8379.pdf
+221,IoT Non-Technical Supporting Capability Core Baseline,IR,8259B,Final,8/25/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8259B.pdf
+222,Approaches for Federal Agencies to Use the Cybersecurity Framework,IR,8170,Final,8/17/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8170-upd.pdf
+223,Review of the Advanced Encryption Standard,IR,8319,Final,7/23/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8319.pdf
+224,Status Report on the Second Round of the NIST Lightweight Cryptography Standardization Process,IR,8369,Final,7/21/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8369.pdf
+225,Hardware-Enabled Security: Container Platform Security Prototype,IR,8320A,Final,6/17/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8320A.pdf
+226,NIST Test Personal Identity Verification (PIV) Cards Version 2,IR,8347,Final,4/02/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8347.pdf
+227,ISCMA: An Information Security Continuous Monitoring Program Assessment,IR,8212,Final,3/31/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8212.pdf
+228,Workshop Summary Report for “Cybersecurity Risks in Consumer Home Internet of Things (IoT) Products” Virtual Workshop,IR,8333,Final,3/29/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8333.pdf
+229,Key Practices in Cyber Supply Chain Risk Management: Observations from Industry,IR,8276,Final,2/11/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8276.pdf
+230,Blockchain Networks: Token Design and Management Overview,IR,8301,Final,2/09/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8301.pdf
+231,Workshop Summary Report for “Building the Federal Profile For IoT Device Cybersecurity” Virtual Workshop,IR,8322,Final,1/07/2021,https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8322.pdf
+232,Collaborative Vulnerability Metadata Acceptance Process (CVMAP) for CVE Numbering Authorities (CNAs) and Authorized Data Publishers,IR,8246,Final,12/15/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8246.pdf
+233,Research Report: User Perceptions of Smart Home Privacy and Security,IR,8330,Final,11/17/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8330.pdf
+234,Integrating Cybersecurity and Enterprise Risk Management (ERM),IR,8286,Final,10/13/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8286.pdf
+235,Cybersecurity Framework Version 1.1 Manufacturing Profile,IR,8183 Rev. 1,Final,10/07/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8183r1.pdf
+236,NIST Cloud Computing Forensic Science Challenges,IR,8006,Final,8/25/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8006.pdf
+237,Status Report on the Second Round of the NIST Post-Quantum Cryptography Standardization Process,IR,8309,Final,7/22/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8309.pdf
+238,Securing Manufacturing Industrial Control Systems: Behavioral Anomaly Detection,IR,8219,Final,7/16/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8219.pdf
+239,NIST Roadmap Toward Criteria for Threshold Schemes for Cryptographic Primitives,IR,8214A,Final,7/07/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8214A.pdf
+240,IoT Device Cybersecurity Capability Core Baseline,IR,8259A,Final,5/29/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8259A.pdf
+241,Foundational Cybersecurity Activities for IoT Device Manufacturers,IR,8259,Final,5/29/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8259.pdf
+242,Security Analysis of First Responder Mobile and Wearable Devices,IR,8196,Final,5/11/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8196.pdf
+243,Symposium on Federally Funded Research on Cybersecurity of Electric Vehicle Supply Equipment (EVSE),IR,8294,Final,4/29/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8294.pdf
+244,Automation Support for Security Control Assessments: Software Vulnerability Management,IR,8011 Vol. 4,Final,4/28/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8011-4.pdf
+245,A Roadmap for Successful Regional Alliances and Multistakeholder Partnerships to Build the Cybersecurity Workforce,IR,8287,Final,2/20/2020,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8287.pdf
+246,Status Report on the First Round of the NIST Lightweight Cryptography Standardization Process,IR,8268,Final,10/07/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8268.pdf
+247,Cybersecurity Framework Manufacturing Profile Low Impact Level Example Implementations Guide: Volume 1 – General Implementation Guidance,IR,8183A Vol. 1,Final,9/30/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-1.pdf
+248,Cybersecurity Framework Manufacturing Profile Low Impact Level Example Implementations Guide: Volume 2 – Process-based Manufacturing System Use Case,IR,8183A Vol. 2,Final,9/30/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-2.pdf
+249,Cybersecurity Framework Manufacturing Profile Low Impact Level Example Implementations Guide: Volume 3 – Discrete-based Manufacturing System Use Case,IR,8183A Vol. 3,Final,9/30/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-3.pdf
+250,Glossary of Key Information Security Terms,IR,7298 Rev. 3,Final,7/03/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.7298r3.pdf
+251,Considerations for Managing Internet of Things (IoT) Cybersecurity and Privacy Risks,IR,8228,Final,6/25/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8228.pdf
+252,A Methodology for Enabling Forensic Analysis Using Hypervisor Vulnerabilities Data,IR,8221,Final,6/05/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8221.pdf
+253,Manufacturing Profile Implementation Methodology for a Robotic Workcell,IR,8227,Final,5/22/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8227.pdf
+254,Metrics and Key Performance Indicators for Robotic Cybersecurity Performance Analysis,IR,8177,Final,5/21/2019,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8177.pdf
+255,Cybersecurity Framework Manufacturing Profile,IR,8183,Final,5/20/2019,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8183.pdf
+256,Threshold Schemes for Cryptographic Primitives: Challenges and Opportunities in Standardization and Validation of Threshold Cryptography,IR,8214,Final,3/01/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8214.pdf
+257,Status Report on the First Round of the NIST Post-Quantum Cryptography Standardization Process,IR,8240,Final,1/31/2019,https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8240.pdf
+258,Organizational Views of NIST Cryptographic Standards and Testing and Validation Programs,IR,8241,Final,12/17/2018,https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8241.pdf
+259,Automation Support for Security Control Assessments: Software Asset Management,IR,8011 Vol. 3,Final,12/06/2018,https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8011-3.pdf
+260,Interagency Report on the Status of International Cybersecurity Standardization for the Internet of Things (IoT),IR,8200,Final,11/29/2018,https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8200.pdf
+261,Blockchain Technology Overview,IR,8202,Final,10/03/2018,https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf
+262,Security Content Automation Protocol (SCAP) Version 1.3 Validation Program Test Requirements,IR,7511 Rev. 5,Final,4/20/2018,https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.7511r5.pdf
+263,Criticality Analysis Process Model: Prioritizing Systems and Components,IR,8179,Final,4/09/2018,https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8179.pdf
+264,Developing Trust Frameworks to Support Identity Federations,IR,8149,Final,1/12/2018,https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8149.pdf
+265,Attribute Metadata: A Proposed Schema for Evaluating Federated Attributes,IR,8112,Final,1/12/2018,https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8112.pdf
+266,Internet of Things (IoT) Cybersecurity Colloquium: A NIST Workshop Proceedings,IR,8201,Final,12/22/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8201.pdf
+267,Security Assurance Requirements for Linux Application Container Deployments,IR,8176,Final,10/11/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf
+268,Exploratory Lens Model of Decision-Making in a Potential Phishing Attack Scenario,IR,8194,Final,10/10/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8194.pdf
+269,Enhancing Resilience of the Internet and Communications Ecosystem: A NIST Workshop Proceedings,IR,8192,Final,9/18/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8192.pdf
+270,Key Performance Indicators for Process Control System Cybersecurity Performance Analysis,IR,8188,Final,8/03/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8188.pdf
+271,Automation Support for Security Control Assessments: Volume 1: Overview,IR,8011 Vol. 1,Final,6/06/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8011-1.pdf
+272,Automation Support for Security Control Assessments: Volume 2: Hardware Asset Management,IR,8011 Vol. 2,Final,6/06/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8011-2.pdf
+273,Report on Lightweight Cryptography,IR,8114,Final,3/28/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8114.pdf
+274,Impact of Code Complexity on Software Analysis,IR,8165,Final,2/09/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8165.pdf
+275,An Overview of Mobile Application Vetting Services for Public Safety,IR,8136,Final,1/27/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8136.pdf
+276,An Introduction to Privacy Engineering and Risk Management in Federal Systems,IR,8062,Final,1/04/2017,https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf
+277,Dramatically Reducing Software Vulnerabilities: Report to the White House Office of Science and Technology Policy,IR,8151,Final,11/30/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf
+278,Small Business Information Security: The Fundamentals,IR,7621 Rev. 1,Final,11/03/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf
+279,Advanced Identity Workshop on Applying Measurement Science in the Identity Ecosystem:  Summary and Next Steps,IR,8103,Final,9/19/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8103.pdf
+280,Usability and Security Considerations for Public Safety Mobile Authentication,IR,8080,Final,7/27/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8080.pdf
+281,Identifying and Categorizing Data Types for Public Safety Mobile Applications: Workshop Report,IR,8135,Final,6/01/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8135.pdf
+282,Report on Post-Quantum Cryptography,IR,8105,Final,4/28/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8105.pdf
+283,Measuring the Usability and Security of Permuted Passwords on Mobile Platforms,IR,8040,Final,4/25/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8040.pdf
+284,Guidelines for the Creation of Interoperable Software Identification (SWID) Tags,IR,8060,Final,4/22/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8060.pdf
+285,NIST Cryptographic Standards and Guidelines Development Process,IR,7977,Final,3/31/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7977.pdf
+286,NSTIC Pilots: Catalyzing the Identity Ecosystem,IR,8054,Final,3/15/2016,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8054.pdf
+287,Security Content Automation Protocol (SCAP) Version 1.2 Validation Program Test Requirements,IR,7511 Rev. 4,Final,1/28/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7511r4.pdf
+288,Derived Personal Identity Verification (PIV) Credentials (DPC) Proof of Concept Research,IR,8055,Final,1/20/2016,https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8055.pdf
+289,Supplemental Information for the Interagency Report on Strategic U.S. Government Engagement in International Standardization to Achieve U.S. Objectives for Cybersecurity,IR,8074 Vol. 2,Final,12/23/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8074v2.pdf
+290,Interagency Report on Strategic U.S. Government Engagement in International Standardization to Achieve U.S. Objectives for Cybersecurity,IR,8074 Vol. 1,Final,12/23/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8074v1.pdf
+291,Trusted Geolocation in the Cloud: Proof of Concept Implementation,IR,7904,Final,12/10/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7904.pdf
+292,An Industrial Control System Cybersecurity Performance Testbed,IR,8089,Final,12/10/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8089.pdf
+293,"Policy Machine: Features, Architecture, and Specification",IR,7987 Rev. 1,Final,10/27/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7987r1.pdf
+294,De-Identification of Personal Information,IR,8053,Final,10/22/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8053.pdf
+295,Security of Interactive and Automated Access Management Using Secure Shell (SSH),IR,7966,Final,10/15/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7966.pdf
+296,Cardholder Authentication for the PIV Digital Signature Key,IR,7863,Final,6/18/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7863.pdf
+297,Proceedings of the Cybersecurity for Direct Digital Manufacturing (DDM) Symposium,IR,8041,Final,4/10/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8041.pdf
+298,Considerations for Identity Management in Public Safety Mobile Networks,IR,8014,Final,3/30/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8014.pdf
+299,Advanced Metering Infrastructure Smart Meter Upgradeability Test Framework,IR,7823,Final,3/02/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7823.pdf
+300,Risk Management for Replication Devices,IR,8023,Final,2/23/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8023.pdf
+301,Public Safety Mobile Application Security Requirements Workshop Summary,IR,8018,Final,1/22/2015,https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8018.pdf
+302,Guidelines for Smart Grid Cybersecurity,IR,7628 Rev. 1,Final,9/25/2014,https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7628r1.pdf
+303,CVSS Implementation Guidance,IR,7946,Final,4/28/2014,https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7946.pdf
+304,United States Federal Employees' Password Management Behaviors – A Department of Commerce Case Study,IR,7991,Final,4/08/2014,https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7991.pdf
+305,A Methodology for Developing Authentication Assurance Level Taxonomy for Smart Card-based Identity Verification,IR,7849,Final,3/05/2014,https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7849.pdf
+306,Report: Authentication Diary Study,IR,7983,Final,2/04/2014,https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7983.pdf
+307,Taxonomic Rules for Password Policies: Translating the Informal to the Formal Language,IR,7970,Final,12/09/2013,https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7970.pdf
+308,Cryptographic Key Management Issues & Challenges in Cloud Services,IR,7956,Final,9/18/2013,https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7956.pdf
+309,Conformance Test Architecture and Test Suite for ANSI/NIST-ITL 1-2011 NIEM XML Encoded Transactions,IR,7957,Final,9/18/2013,https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7957.pdf
+310,Requirements and Conformance Test Assertions for ANSI/NIST-ITL 1-2011 Record Type 18 - DNA Record,IR,7933,Final,6/21/2013,https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7933.pdf
+311,"Proceedings of the Cybersecurity in Cyber-Physical Systems Workshop, April 23-24, 2012",IR,7916,Final,2/15/2013,https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7916.pdf
+312,A Credential Reliability and Revocation Model for Federated Identities,IR,7817,Final,11/29/2012,https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7817.pdf
+313,Third-Round Report of the SHA-3 Cryptographic Hash Algorithm Competition,IR,7896,Final,11/15/2012,https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7896.pdf
+314,Combinatorial Coverage Measurement,IR,7878,Final,10/26/2012,https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7878.pdf
+315,Notional Supply Chain Risk Management Practices for Federal Information Systems,IR,7622,Final,10/16/2012,https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7622.pdf
+316,BioCTS 2012: Advanced Conformance Test Architectures and Test Suites for Biometric Data Interchange Formats and Biometric Information Records,IR,7877,Final,9/14/2012,https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7877.pdf
+317,Guidelines for Access Control System Evaluation Metrics,IR,7874,Final,9/14/2012,https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7874.pdf
+318,Usability of PIV Smartcards for Logical Access,IR,7867 E2012,Final,8/01/2012,https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7867.pdf
+319,NIST Test Personal Identity Verification (PIV) Cards,IR,7870,Final,7/12/2012,https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7870.pdf
+320,The Common Misuse Scoring System (CMSS): Metrics for Software Feature Misuse Vulnerabilities,IR,7864,Final,7/10/2012,https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7864.pdf
+321,Computer Security Division 2011 Annual Report,IR,7816,Final,5/08/2012,https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7816.pdf
+322,Specification for the Extensible Configuration Checklist Description Format (XCCDF) Version 1.2,IR,7275 Rev. 4,Final,3/01/2012,https://csrc.nist.gov/files/pubs/ir/7275/r4/upd1/final/docs/nistir-7275r4_updated-march-2012_clean.pdf
+323,Trust Model for Security Automation Data 1.0 (TMSAD),IR,7802,Final,9/20/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7802.pdf
+324,ANSI/NIST-ITL 1-2011 Requirements and Conformance Test Assertions,IR,7806,Final,9/16/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7806.pdf
+325,Information System Security Best Practices for UOCAVA-Supporting Systems,IR,7682,Final,9/15/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7682.pdf
+326,Security Best Practices for the Electronic Transmission of Election Materials for UOCAVA Voters,IR,7711,Final,9/15/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7711.pdf
+327,Common Platform Enumeration: Dictionary Specification Version 2.3,IR,7697,Final,8/19/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7697.pdf
+328,Common Platform Enumeration: Naming Specification Version 2.3,IR,7695,Final,8/19/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7695.pdf
+329,Common Platform Enumeration: Applicability Language Specification Version 2.3,IR,7698,Final,8/19/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7698.pdf
+330,Common Platform Enumeration: Name Matching Specification Version 2.3,IR,7696,Final,8/19/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7696.pdf
+331,Security Risk Analysis of Enterprise Networks Using Probabilistic Attack Graphs,IR,7788,Final,8/01/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7788.pdf
+332,Access Control for SAR Systems,IR,7815,Final,7/01/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7815.pdf
+333,Conformance Test Architecture and Test Suite for ANSI/NIST-ITL 1-2007,IR,7791,Final,6/22/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7791.pdf
+334,Specification for Asset Reporting Format 1.1,IR,7694,Final,6/21/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7694.pdf
+335,Specification for Asset Identification 1.1,IR,7693,Final,6/17/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7693.pdf
+336,Computer Security Division 2010 Annual Report,IR,7751,Final,5/31/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7751.pdf
+337,Specification for the Open Checklist Interactive Language (OCIL) Version 2.0,IR,7692,Final,4/07/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7692.pdf
+338,Conformance Test Architecture for Biometric Data Interchange Formats - Version Beta 2.0,IR,7771,Final,2/28/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7771.pdf
+339,Status Report on the Second Round of the SHA-3 Cryptographic Hash Algorithm Competition,IR,7764,Final,2/23/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7764.pdf
+340,Security Considerations for Remote Electronic UOCAVA Voting,IR,7770,Final,2/21/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7770.pdf
+341,The Common Configuration Scoring System (CCSS): Metrics for Software Security Configuration Vulnerabilities,IR,7502,Final,12/27/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7502.pdf
+342,An Application of Combinatorial Methods to Conformance Testing for Document Object Model Events,IR,7773,Final,11/01/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7773.pdf
+343,Security Architecture Design Process for Health Information Exchanges (HIEs),IR,7497,Final,9/30/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7497.pdf
+344,Framework for Emergency Response Officials (ERO): Authentication and Authorization Infrastructure,IR,7601,Final,8/31/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7601.pdf
+345,Forensics Web Services (FWS),IR,7559,Final,6/30/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7559.pdf
+346,Maintaining and Using Key History on Personal Identity Verification (PIV) Cards,IR,7676,Final,6/18/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7676.pdf
+347,A Report on the Privilege (Access) Management Workshop,IR,7657,Final,3/30/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7657.pdf
+348,Computer Security Division 2009 Annual Report,IR,7653,Final,3/23/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7653.pdf
+349,Guide to SIMfill Use and Development,IR,7658,Final,2/24/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7658.pdf
+350,"Cryptographic Key Management Workshop Summary -- June 8-9, 2009",IR,7609,Final,1/08/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7609.pdf
+351,"Proceedings of the Privilege Management Workshop, September 1-3, 2009",IR,7665,Final,1/01/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7665.pdf
+352,Mobile Forensic Reference Materials: a Methodology and Reification,IR,7617,Final,10/14/2009,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7617.pdf
+353,System and Network Security Acronyms and Abbreviations,IR,7581,Final,9/30/2009,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7581.pdf
+354,Status Report on the First Round of the SHA-3 Cryptographic Hash Algorithm Competition,IR,7620,Final,9/23/2009,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7620.pdf
+355,Use of ISO/IEC 24727,IR,7611,Final,8/14/2009,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7611.pdf
+356,Directions in Security Metrics Research,IR,7564,Final,4/30/2009,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7564.pdf
+357,Computer Security Division 2008 Annual Report,IR,7536,Final,3/16/2009,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7536.pdf
+358,Symmetric Key Injection onto Smart Cards,IR,7539,Final,12/22/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7539.pdf
+359,A Threat Analysis on UOCAVA Voting Systems,IR,7551,Final,12/19/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7551.pdf
+360,Forensic Filtering of Cell Phone Protocols,IR,7516,Final,8/27/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7516.pdf
+361,Computer Security Division 2007 Annual Report,IR,7442,Final,4/01/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7442.pdf
+362,Specification for the Extensible Configuration Checklist Description Format (XCCDF) Version 1.1.4,IR,7275 Rev. 3,Final,1/01/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7275r3.pdf
+363,Secure Biometric Match-on-Card Feasibility Report,IR,7452,Final,11/30/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7452.pdf
+364,"6th Annual PKI R&D Workshop ""Applications-Driven PKI"" Proceedings",IR,7427,Final,9/13/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7427.pdf
+365,The Common Vulnerability Scoring System (CVSS) and its Applicability to Federal Agency Systems,IR,7435,Final,8/30/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7435.pdf
+366,Cell Phone Forensic Tools: an Overview and Analysis Update,IR,7387,Final,3/21/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7387.pdf
+367,Computer Security Division 2006 Annual Report,IR,7399,Final,3/21/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7399.pdf
+368,Information Security Guide for Government Executives,IR,7359,Final,1/01/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7359.pdf
+369,Program Review for Information Security Management Assistance (PRISMA),IR,7358,Final,1/01/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7358.pdf
+370,Specification for the Extensible Configuration Checklist Description Format (XCCDF) Version 1.1,IR,7275,Final,11/01/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7275.pdf
+371,Assessment of Access Control Systems,IR,7316,Final,9/29/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7316.pdf
+372,Personal Identity Verification Demonstration Summary,IR,7337,Final,8/31/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7337.pdf
+373,"5th Annual PKI R&D Workshop ""Making PKI Easy to Use"" Proceedings",IR,7313,Final,7/18/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7313.pdf
+374,An Algorithm for Generating Very Large Covering Arrays,IR,7308,Final,3/20/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7308.pdf
+375,Fingerprint Identification and Mobile Handheld Devices: An Overview and Implementation,IR,7290,Final,3/01/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7290.pdf
+376,Computer Security Division 2005 Annual Report,IR,7285,Final,2/01/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7285.pdf
+377,Personal Identity Verification Card Management Report,IR,7284,Final,1/06/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7284.pdf
+378,Cell Phone Forensic Tools: an Overview and Analysis,IR,7250,Final,10/19/2005,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7250.pdf
+379,Computer Security Division 2004 Annual Report,IR,7219,Final,8/01/2005,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7219.pdf
+380,"4th Annual PKI R&D Workshop ""Multiple Paths to Trust"" Proceedings",IR,7224,Final,8/01/2005,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7224.pdf
+381,Smart Cards and Mobile Device Authentication: an Overview and Implementation,IR,7206,Final,7/01/2005,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7206.pdf
+382,Proximity Beacons and Mobile Device Authentication: an Overview and Implementation,IR,7200,Final,6/01/2005,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7200.pdf
+383,Specification for the Extensible Configuration Checklist Description Format (XCCDF),IR,7188,Final,1/01/2005,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7188.pdf
+384,PDA Forensic Tools: an Overview and Analysis,IR,7100,Final,8/01/2004,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7100.pdf
+385,Computer Security Division 2003 Annual Report,IR,7111,Final,4/30/2004,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7111.pdf
+386,Common Biometric Exchange Formats Framework (CBEFF),IR,6529A,Final,4/05/2004,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6529-a.pdf
+387,2nd Annual PKI Research Workshop Proceedings,IR,7085,Final,4/01/2004,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7085.pdf
+388,Card Technology Developments and Gap Analysis Interagency Report,IR,7056,Final,3/01/2004,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7056.pdf
+389,1st Annual PKI Research Workshop Proceedings,IR,7059,Final,11/12/2003,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=151288
+390,A Framework for Multi-mode Authentication: Overview and Implementation Guide,IR,7046,Final,8/01/2003,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7046.pdf
+391,"Government Smart Card Interoperability Specification, Version 2.1",IR,6887 E2003,Final,7/16/2003,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6887e2003.pdf
+392,An Overview of Issues in Testing Intrusion Detection Systems,IR,7007,Final,7/11/2003,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7007.pdf
+393,Picture Password: A Visual Login Technique for Mobile Devices,IR,7030,Final,7/01/2003,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7030.pdf
+394,Vulnerabilities in Quantum Key Distribution Protocols,IR,6977,Final,5/01/2003,https://nvlpubs.nist.gov/nistpubs/ir/2003/ir6977.pdf
+395,"COTS Security Protection Profile - Operating Systems (CSPP-OS) (Worked Example Applying Guidance of NISTIR-6462, CSPP) Version 1.0",IR,6985,Final,4/01/2003,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6985.pdf
+396,Policy Expression and Enforcement for Handheld Devices,IR,6981,Final,4/01/2003,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6981.pdf
+397,IT Security for Industrial Control Systems,IR,6859,Final,2/28/2002,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6859.pdf
+398,Randomness Testing of the Advanced Encryption Standard Finalist Candidates,IR,6483,Final,4/01/2000,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=151216
+399,CSPP - Guidance for COTS Security Protection Profiles (Formerly: CS2 - Protection Profile Guidance for Near-Term COTS) Version 1.0,IR,6462,Final,12/01/1999,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=151208
+400,Applying Mobile Agents to Intrusion Detection and Response,IR,6416,Final,10/01/1999,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=151202
+401,Randomness Testing of the Advanced Encryption Standard Candidate Algorithms,IR,6390,Final,9/01/1999,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=151193
+402,A Revised Model for Role Based Access Control,IR,6192,Final,7/09/1998,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6192.pdf
+403,The TMACH Experiment Phase 1 - Preliminary Developmental Evaluation,IR,5810,Final,6/01/1996,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5810.pdf
+404,Distributed Communication Methods and Role-Based Access Control for Use in Health Care Applications,IR,5820,Final,4/01/1996,https://www.nist.gov/manuscript-publication-search.cfm?pub_id=900786
+405,"Validated Products List 1995 no. 4: Programming Languages, Database Language SQL, Graphics, POSIX, Computer Security, Product Data - IGES, OSI",IR,5731,Final,10/01/1995,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5731.pdf
+406,Computer Security Training & Awareness Course Compendium,IR,5495,Final,9/01/1994,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5495.pdf
+407,"A Head Start on Assurance: Proceedings of an Invitational Workshop on Information Technology (IT) Assurance and Trustworthiness, March 21-23, 1994",IR,5472,Final,8/01/1994,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5472.pdf
+408,A Study of Federal Agency Needs for Information Technology Security,IR,5424,Final,5/01/1994,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5424.pdf
+409,Preliminary Functional Specifications of a Prototype Electronic Research Notebook for NIST,IR,5395,Final,4/01/1994,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5395.pdf
+410,Proceedings of the Workshop of the Federal Criteria for Information Technology Security,IR,5386,Final,3/01/1994,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5386.pdf
+411,Conformance Assessment of Transport Layer Security Implementations,IR,5325,Final,12/01/1993,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5325.pdf
+412,General Procedures for Registering Computer Security Objects,IR,5308,Final,12/01/1993,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5308.pdf
+413,"Report of the NIST Workshop on Digital Signature Certificate Management, December 10-11, 1992",IR,5234,Final,10/01/1993,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5234.pdf
+414,Security of SQL-Based Implementations of Product Data Exchange Using STEP,IR,5283,Final,10/01/1993,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5283.pdf
+415,Workshop on Security Procedures for the Interchange of Electronic Documents: Selected Papers and Results,IR,5247,Final,8/01/1993,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5247.pdf
+416,"Report of the NSF/NIST Workshop on NSFNET/NREN Security, July 6-7, 1992",IR,5232,Final,5/01/1993,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5232.pdf
+417,Minimum Security Requirements for Multi-User Operating Systems,IR,5153,Final,3/01/1993,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir5153.pdf
+418,A Study of OSI Key Management,IR,4983,Final,11/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4983.pdf
+419,Assessing Federal and Commercial Information Security Needs,IR,4976,Final,11/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4976.pdf
+420,Threat Assessment of Malicious Code and External Attacks,IR,4939,Final,10/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4939.pdf
+421,Protocol Implementation Conformance Statement (PICS) Proforma for the SDNS Security Protocol at Layer 4 (SP4),IR,4934,Final,10/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4934.pdf
+422,Computer Security Bulletin Board System: User's Guide,IR,4933,Final,9/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4933.pdf
+423,Computer Security Training & Awareness Course Compendium,IR,4846,Final,5/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4846.pdf
+424,PBX Administrator’s Security Standards,IR,4816,Final,4/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4816.pdf
+425,A Formal Description of the SDNS Security Protocol at Layer 4 (SP4),IR,4792,Final,3/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4792.pdf
+426,A Review of U.S. and European Security Evaluation Criteria,IR,4774,Final,3/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4774.pdf
+427,Privacy Protection in the United States: A 1991 Survey of Laws and Regulations Affecting Privacy in the Public and Private Sector Including a List of All Relevant Officials,IR,4781,Final,2/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4781.pdf
+428,Foundations of a Security Policy for Use of the National Research and Educational Network,IR,4734,Final,2/01/1992,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4734.pdf
+429,Sample Statement of Work for Federal Computer Security Services: For use In-House or Contracting Out,IR,4749,Final,12/01/1991,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4749.pdf
+430,Glossary of Computer Security Terminology,IR,4659,Final,9/01/1991,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4659.pdf
+431,Standard Security Label for GOSIP: an Invitational Workshop,IR,4614,Final,6/01/1991,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4614.pdf
+432,Computer Security: Selected Articles,IR,4545,Final,4/01/1991,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4545.pdf
+433,National Aeronautics and Space Administration's (NASA) Automated Information Security Handbook,IR,4518,Final,3/01/1991,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4518.pdf
+434,U.S. Department of Commerce: Methodology for Certifying Sensitive Computer Applications,IR,4451,Final,11/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4451.pdf
+435,SRI International: Improving the Security of Your UNIX System,IR,4453,Final,11/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4453.pdf
+436,1989 Computer Security and Privacy Plans (CSPP) Review Project: A First-Year Federal Response to the Computer Security Act of 1987 (Final Report),IR,4409,Final,9/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4409.pdf
+437,U.S. Department of Justice Simplified Risk Analysis Guidelines,IR,4387,Final,8/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4387.pdf
+438,"Domestic Disaster Recovery Plan for PCs, OIS, and Small VS systems",IR,4359,Final,8/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4359.pdf
+439,Automated Information System Security Accreditation Guidelines,IR,4378,Final,8/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4378.pdf
+440,A Conformance Test for FDDI Medium Access Control (MAC),IR,4267,Final,7/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4267.pdf
+441,Security Labels for Open Systems: an Invitational Workshop,IR,4362,Final,6/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4362.pdf
+442,U.S. Department of Energy Risk Assessment Methodology,IR,4325,Final,5/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4325.pdf
+443,Secure Data Network Systems (SDNS) Key Management Documents,IR,4262,Final,2/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4262.pdf
+444,Secure Data Network Systems (SDNS) Access Control Documents,IR,4259,Final,2/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4259.pdf
+445,"Secure Data Network Systems (SDNS) Network, Transport, and Message Security Protocols",IR,4250,Final,2/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4250.pdf
+446,Prototyping SP4: a Secure Data Network System Transport Protocol Interoperability Demonstration Project,IR,4228,Final,1/01/1990,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir90-4228.pdf
+447,Report of the Workshop on Cryptography in Support of Computer Security,IR,1291,Final,9/01/1977,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir77-1291.pdf
+448,Report of the Workshop on Estimation of Significant Advances in Computer Technology,IR,1189,Final,12/01/1976,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-1189.pdf
+449,A Computer Model to Determine Low Cost Techniques to Comply with the Privacy Act of 1974,IR,985,Final,2/01/1976,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir76-985.pdf
+450,Index of Automated System Design Requirements as Derived from the OMB Privacy Act Implementation Guidelines,IR,909,Final,10/01/1975,https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-909.pdf
+451,Fiscal Year 2023 Cybersecurity and Privacy Annual Report,SP,800-229,Final,5/20/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-229.pdf
+452,Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations,SP,800-171 Rev. 3,Final,5/14/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r3.pdf
+453,Assessing Security Requirements for Controlled Unclassified Information,SP,800-171A Rev. 3,Final,5/14/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171Ar3.pdf
+454,[Supplement 1] Incorporating Syncable Authenticators into NIST SP 800-63B: Digital Identity Guidelines — Authentication and Lifecycle Management,SP,800-63B,Final,4/22/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63Bsup1.pdf
+455,NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide,SP,1300,Final,2/26/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf
+456,NIST Cybersecurity Framework 2.0: Quick-Start Guide for Creating and Using Organizational Profiles,SP,1301,Final,2/26/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf
+457,NIST Cybersecurity Framework 2.0: Resource and Overview Guide,SP,1299,Final,2/26/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1299.pdf
+458,Data Confidentiality: Identifying and Protecting Assets Against Data Breaches,SP,1800-28,Final,2/23/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-28.pdf
+459,"Data Confidentiality: Detect, Respond to, and Recover from Data Breaches",SP,1800-29,Final,2/23/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-29.pdf
+460,Implementing the Health Insurance Portability and Accountability Act (HIPAA) Security Rule: A Cybersecurity Resource Guide,SP,800-66 Rev. 2,Final,2/14/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-66r2.pdf
+461,Strategies for the Integration of Software Supply Chain Security in DevSecOps CI/CD Pipelines,SP,800-204D,Final,2/12/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204D.pdf
+462,"High-Performance Computing Security: Architecture, Threat Analysis, and Security Posture",SP,800-223,Final,2/09/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-223.pdf
+463,Recommendation for Key Derivation Using Pseudorandom Functions,SP,800-108 Rev. 1,Final,2/02/2024,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-108r1-upd1.pdf
+464,Enterprise Impact of Information and Communications Technology Risk: Governing and Managing ICT Risk Programs Within an Enterprise Risk Portfolio,SP,800-221,Final,11/17/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-221.pdf
+465,Information and Communications Technology (ICT) Risk Outcomes: Integrating ICT Risk Management Programs with the Enterprise Risk Portfolio,SP,800-221A,Final,11/17/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-221A.pdf
+466,Cryptographic Module Validation Program (CMVP) Security Policy Requirements: CMVP Validation Authority Updates to ISO/IEC 24759 and ISO/IEC 19790 Annex B,SP,800-140B Rev. 1,Final,11/17/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140Br1.pdf
+467,Guide to Operational Technology (OT) Security,SP,800-82 Rev. 3,Final,9/28/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf
+468,Mobile Device Security: Bring Your Own Device (BYOD),SP,1800-22,Final,9/28/2023,https://csrc.nist.govhttp://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-22.pdf
+469,De-Identifying Government Datasets: Techniques and Governance,SP,800-188,Final,9/14/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf
+470,A Zero Trust Architecture Model for Access Control in Cloud-Native Applications in Multi-Cloud Environments,SP,800-207A,Final,9/13/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207A.pdf
+471,Cryptographic Module Validation Program (CMVP)-Approved Security Functions: CMVP Validation Authority Updates to ISO/IEC 24759,SP,800-140C Rev. 2,Final,7/25/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140Cr2.pdf
+472,Cryptographic Module Validation Program (CMVP)-Approved Sensitive Security Parameter Generation and Establishment Methods: CMVP Validation Authority Updates to ISO/IEC 24759,SP,800-140D Rev. 2,Final,7/25/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140Dr2.pdf
+473,Automated Secure Configuration Guidance from the macOS Security Compliance Project (mSCP),SP,800-219 Rev. 1,Final,7/20/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-219r1.pdf
+474,Fiscal Year 2022 Cybersecurity and Privacy Annual Report,SP,800-225,Final,5/30/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-225.pdf
+475,Recommendations for Federal Vulnerability Disclosure Guidelines,SP,800-216,Final,5/24/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-216.pdf
+476,Guidelines for Managing the Security of Mobile Devices in the Enterprise,SP,800-124 Rev. 2,Final,5/17/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-124r2.pdf
+477,Recommendations for Discrete Logarithm-based Cryptography: Elliptic Curve Domain Parameters,SP,800-186,Final,2/03/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-186.pdf
+478,"Federal Cybersecurity Role-Based Training Approaches, Successes, and Challenges",SP,1288,Final,1/11/2023,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1288.pdf
+479,Validating the Integrity of Computing Devices,SP,1800-34,Final,12/09/2022,https://csrc.nist.govhttp://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-34.pdf
+480,Guide to a Secure Enterprise Network Landscape,SP,800-215,Final,11/17/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-215.pdf
+481,Engineering Trustworthy Secure Systems,SP,800-160 Vol. 1 Rev. 1,Final,11/16/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1r1.pdf
+482,Fiscal Year 2021 Cybersecurity and Privacy Annual Report,SP,800-220,Final,9/26/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-220.pdf
+483,Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations,SP,800-161 Rev. 1,Final,5/05/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1.pdf
+484,Trusted Cloud: Security Practice Guide for VMware Hybrid Cloud Infrastructure as a Service (IaaS) Environments,SP,1800-19,Final,4/20/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-19.pdf
+485,Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology,SP,800-40 Rev. 4,Final,4/06/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-40r4.pdf
+486,Improving Enterprise Patching for General IT Systems: Utilizing Existing Tools and Performing Processes in Better Ways,SP,1800-31,Final,4/06/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-31.pdf
+487,Protecting Information and System Integrity in Industrial Control System Environments: Cybersecurity for the Manufacturing Sector,SP,1800-10,Final,3/16/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-10.pdf
+488,Assessing Enhanced Security Requirements for Controlled Unclassified Information,SP,800-172A,Final,3/15/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172A.pdf
+489,Implementation of DevSecOps for a Microservices-based Application with Service Mesh,SP,800-204C,Final,3/08/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204C.pdf
+490,Securing Telehealth Remote Patient Monitoring Ecosystem,SP,1800-30,Final,2/22/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-30.pdf
+491,Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities,SP,800-218,Final,2/03/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf
+492,Securing Distributed Energy Resources: An Example of Industrial Internet of Things Cybersecurity,SP,1800-32,Final,2/02/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-32.pdf
+493,Assessing Security and Privacy Controls in Information Systems and Organizations,SP,800-53A Rev. 5,Final,1/25/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53Ar5.pdf
+494,Guide to Bluetooth Security,SP,800-121 Rev. 2,Final,1/19/2022,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-121r2-upd1.pdf
+495,Developing Cyber-Resilient Systems: A Systems Security Engineering Approach,SP,800-160 Vol. 2 Rev. 1,Final,12/09/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v2r1.pdf
+496,IoT Device Cybersecurity Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements,SP,800-213,Final,11/29/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-213.pdf
+497,IoT Device Cybersecurity Guidance for the Federal Government: IoT Device Cybersecurity Requirement Catalog,SP,800-213A,Final,11/29/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-213A.pdf
+498,2020 Cybersecurity and Privacy Annual Report,SP,800-214,Final,9/28/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-214.pdf
+499,Mobile Application Single Sign-On: Improving Authentication for Public Safety First Responders,SP,1800-13,Final,8/25/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-13.pdf
+500,Attribute-based Access Control for Microservices-based Applications using a Service Mesh,SP,800-204B,Final,8/06/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204B.pdf
+501,Getting Started with the NIST Cybersecurity Framework: A Quick Start Guide,SP,1271,Final,8/06/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1271.pdf
+502,Managing the Security of Information Exchanges,SP,800-47 Rev. 1,Final,7/20/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-47r1.pdf
+503,Securing Small-Business and Home Internet of Things (IoT) Devices: Mitigating Network-Based Attacks Using Manufacturer Usage Description (MUD),SP,1800-15,Final,5/26/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-15.pdf
+504,Securing Property Management Systems,SP,1800-27,Final,3/30/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-27.pdf
+505,Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171,SP,800-172,Final,2/02/2021,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172.pdf
+506,Securing Picture Archiving and Communication System (PACS): Cybersecurity for the Healthcare Sector,SP,1800-24,Final,12/21/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-24.pdf
+507,Security and Privacy Controls for Information Systems and Organizations,SP,800-53 Rev. 5,Final,12/10/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf
+508,Control Baselines for Information Systems and Organizations,SP,800-53B,Final,12/10/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53B.pdf
+509,Data Integrity: Detecting and Responding to Ransomware and Other Destructive Events,SP,1800-26,Final,12/08/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-26.pdf
+510,Data Integrity: Identifying and Protecting Assets Against Ransomware and Other Destructive Events,SP,1800-25,Final,12/08/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-25.pdf
+511,Workforce Framework for Cybersecurity (NICE Framework),SP,800-181 Rev. 1,Final,11/16/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181r1.pdf
+512,Recommendation for Stateful Hash-Based Signature Schemes,SP,800-208,Final,10/29/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-208.pdf
+513,Security Guidelines for Storage Infrastructure,SP,800-209,Final,10/26/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-209.pdf
+514,Data Integrity: Recovering from Ransomware and Other Destructive Events,SP,1800-11,Final,9/22/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-11.pdf
+515,Mobile Device Security: Corporate-Owned Personally-Enabled (COPE),SP,1800-21,Final,9/15/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-21.pdf
+516,2019 NIST/ITL Cybersecurity Program Annual Report,SP,800-211,Final,8/24/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-211.pdf
+517,Improving Veteran Transitions to Civilian Cybersecurity Roles: Workshop Report,SP,1500-16,Final,8/20/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-16.pdf
+518,Recommendation for Key-Derivation Methods in Key-Establishment Schemes,SP,800-56C Rev. 2,Final,8/18/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-56Cr2.pdf
+519,Zero Trust Architecture,SP,800-207,Final,8/11/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf
+520,General Access Control Guidance for Cloud Systems,SP,800-210,Final,7/31/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-210.pdf
+521,Guide to IPsec VPNs,SP,800-77 Rev. 1,Final,6/30/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-77r1.pdf
+522,Securing Web Transactions: TLS Server Certificate Management,SP,1800-16,Final,6/16/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-16.pdf
+523,Recommendation for Cryptographic Key Generation,SP,800-133 Rev. 2,Final,6/04/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-133r2.pdf
+524,Building Secure Microservices-based Applications Using Service-Mesh Architecture,SP,800-204A,Final,5/27/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204A.pdf
+525,Assessing Information Security Continuous Monitoring (ISCM) Programs: Developing an ISCM Program Assessment,SP,800-137A,Final,5/21/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-137A.pdf
+526,"Energy Sector Asset Management: For Electric Utilities, Oil & Gas Industry",SP,1800-23,Final,5/20/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-23.pdf
+527,Recommendation for Key Management: Part 1 – General,SP,800-57 Part 1 Rev. 5,Final,5/04/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf
+528,Guideline for Using Cryptographic Standards in the Federal Government: Cryptographic Mechanisms,SP,800-175B Rev. 1,Final,3/31/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175Br1.pdf
+529,FIPS 140-3 Derived Test Requirements (DTR): CMVP Validation Authority Updates to ISO/IEC 24759,SP,800-140,Final,3/20/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140.pdf
+530,CMVP Documentation Requirements: CMVP Validation Authority Updates to ISO/IEC 24759,SP,800-140A,Final,3/20/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140A.pdf
+531,CMVP Approved Authentication Mechanisms: CMVP Validation Authority Requirements for ISO/IEC 19790 Annex E and ISO/IEC 24579 Section 6.17,SP,800-140E,Final,3/20/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140E.pdf
+532,CMVP Approved Non-Invasive Attack Mitigation Test Metrics: CMVP Validation Authority Updates to ISO/IEC 24759,SP,800-140F,Final,3/20/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-140F.pdf
+533,Annual Report 2018: NIST/ITL Cybersecurity Program,SP,800-206,Final,3/13/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-206.pdf
+534,Digital Identity Guidelines: Enrollment and Identity Proofing,SP,800-63A,Final,3/02/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf
+535,Digital Identity Guidelines: Authentication and Lifecycle Management,SP,800-63B,Final,3/02/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63b.pdf
+536,Digital Identity Guidelines: Federation and Assertions,SP,800-63C,Final,3/02/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63c.pdf
+537,Digital Identity Guidelines,SP,800-63-3,Final,3/02/2020,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf
+538,Resilient Interdomain Traffic Exchange: BGP Security and DDoS Mitigation,SP,800-189,Final,12/17/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-189.pdf
+539,"NIST Big Data Interoperability Framework: Volume 4, Security and Privacy Version 3",SP,1500-4 Rev. 2,Final,10/21/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-4r2.pdf
+540,Guide for Security-Focused Configuration Management of Information Systems,SP,800-128,Final,10/10/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-128.pdf
+541,"Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations",SP,800-52 Rev. 2,Final,8/29/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-52r2.pdf
+542,Derived Personal Identity Verification (PIV) Credentials,SP,1800-12,Final,8/27/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-12.pdf
+543,Security Strategies for Microservices-based Application Systems,SP,800-204,Final,8/07/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204.pdf
+544,Situational Awareness for Electric Utilities,SP,1800-7,Final,8/07/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-7.pdf
+545,Guide to Attribute Based Access Control (ABAC) Definition and Considerations,SP,800-162,Final,8/02/2019,https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.800-162.pdf
+546,"Multifactor Authentication for E-Commerce: Risk-Based, FIDO Universal Second Factor Implementations for Purchasers",SP,1800-17,Final,7/30/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-17.pdf
+547,Protecting the Integrity of Internet Routing: Border Gateway Protocol (BGP) Route Origin Validation,SP,1800-14,Final,6/28/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-14.pdf
+548,Attribute Considerations for Access Control Systems,SP,800-205,Final,6/18/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-205.pdf
+549,Recommendation for Key Management: Part 2 – Best Practices for Key Management Organizations,SP,800-57 Part 2 Rev. 1,Final,5/23/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt2r1.pdf
+550,Vetting the Security of Mobile Applications,SP,800-163 Rev. 1,Final,4/19/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-163r1.pdf
+551,Transitioning the Use of Cryptographic Algorithms and Key Lengths,SP,800-131A Rev. 2,Final,3/21/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-131Ar2.pdf
+552,Recommendation for Pair-Wise Key-Establishment Using Integer Factorization Cryptography,SP,800-56B Rev. 2,Final,3/21/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-56Br2.pdf
+553,Trustworthy Email,SP,800-177 Rev. 1,Final,2/26/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-177r1.pdf
+554,Mobile Device Security: Cloud and Hybrid Builds,SP,1800-4,Final,2/21/2019,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-4.pdf
+555,Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy,SP,800-37 Rev. 2,Final,12/20/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf
+556,IT Asset Management,SP,1800-5,Final,9/07/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-5.pdf
+557,Securing Wireless Infusion Pumps in Healthcare Delivery Organizations,SP,1800-8,Final,8/17/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-8.pdf
+558,Securing Electronic Health Records on Mobile Devices,SP,1800-1,Final,7/27/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-1.pdf
+559,Identity and Access Management for Electric Utilities,SP,1800-2,Final,7/13/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-2.pdf
+560,2017 NIST/ITL Cybersecurity Program Annual Report,SP,800-203,Final,7/02/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-203.pdf
+561,Guidelines for the Use of PIV Credentials in Facility Access,SP,800-116 Rev. 1,Final,6/29/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-116r1.pdf
+562,Security Recommendations for Server-based Hypervisor Platforms,SP,800-125A Rev. 1,Final,6/07/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-125Ar1.pdf
+563,Quick Start Guide for Populating Mobile Test Devices,SP,800-202,Final,5/10/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-202.pdf
+564,Platform Firmware Resiliency Guidelines,SP,800-193,Final,5/04/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-193.pdf
+565,Codes for Identification of Federal and Federally-Assisted Organizations,SP,800-87 Rev. 2,Final,4/19/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-87r2.pdf
+566,Recommendation for Pair-Wise Key-Establishment Schemes Using Discrete Logarithm Cryptography,SP,800-56A Rev. 3,Final,4/16/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-56Ar3.pdf
+567,Fog Computing Conceptual Model,SP,500-325,Final,3/14/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-325.pdf
+568,National Checklist Program for IT Products: Guidelines for Checklist Users and Developers,SP,800-70 Rev. 4,Final,2/15/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-70r4.pdf
+569,The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.3,SP,800-126 Rev. 3,Final,2/14/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-126r3.pdf
+570,SCAP 1.3 Component Specification Version Updates: An Annex to NIST Special Publication 800-126 Revision 3,SP,800-126A,Final,2/14/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-126A.pdf
+571,Domain Name System-Based Electronic Mail Security,SP,1800-6,Final,1/19/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-6.pdf
+572,Recommendation for the Entropy Sources Used for Random Bit Generation,SP,800-90B,Final,1/10/2018,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90B.pdf
+573,Guide to LTE Security,SP,800-187,Final,12/21/2017,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-187.pdf
+574,2016 NIST/ITL Cybersecurity Program Annual Report,SP,800-195,Final,9/28/2017,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-195.pdf
+575,Application Container Security Guide,SP,800-190,Final,9/25/2017,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf
+576,Verification and Test Methods for Access Control Policies/Models,SP,800-192,Final,6/27/2017,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-192.pdf
+577,An Introduction to Information Security,SP,800-12 Rev. 1,Final,6/22/2017,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf
+578,Guide for Cybersecurity Event Recovery,SP,800-184,Final,12/22/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-184.pdf
+579,"SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash, and ParallelHash",SP,800-185,Final,12/22/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-185.pdf
+580,Report of the Workshop on Software Measures and Metrics to Reduce Security Vulnerabilities (SwMM-RSV),SP,500-320,Final,11/10/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-320.pdf
+581,Recommendation for Block Cipher Modes of Operation: the CMAC Mode for Authentication,SP,800-38B,Final,10/06/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38B.pdf
+582,Guide to Cyber Threat Information Sharing,SP,800-150,Final,10/04/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-150.pdf
+583,A Comparison of Attribute Based Access Control (ABAC) Standards for Data Service Applications: Extensible Access Control Markup Language (XACML) and Next Generation Access Control (NGAC),SP,800-178,Final,10/03/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-178.pdf
+584,"Guideline for Using Cryptographic Standards in the Federal Government: Directives, Mandates and Policies",SP,800-175A,Final,8/22/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175A.pdf
+585,Computer Security Division 2015 Annual Report,SP,800-182,Final,8/10/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-182.pdf
+586,Recommendation for Block Cipher Modes of Operation: Methods for Format-Preserving Encryption,SP,800-38G,Final,8/04/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38G.pdf
+587,"Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security",SP,800-46 Rev. 2,Final,7/29/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-46r2.pdf
+588,User's Guide to Telework and Bring Your Own Device (BYOD) Security,SP,800-114 Rev. 1,Final,7/29/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-114r1.pdf
+589,Networks of 'Things',SP,800-183,Final,7/28/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-183.pdf
+590,Derived PIV Application and Data Model Test Guidelines,SP,800-166,Final,6/06/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-166.pdf
+591,Representation of PIV Chain-of-Trust for Import and Export,SP,800-156,Final,5/20/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-156.pdf
+592,PIV Card Application and Middleware Interface Test Guidelines (SP 800-73-4 Compliance),SP,800-85A-4,Final,4/13/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-85A-4.pdf
+593,Secure Virtual Network Configuration for Virtual Machine (VM) Protection,SP,800-125B,Final,3/07/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-125B.pdf
+594,Interfaces for Personal Identity Verification,SP,800-73-4,Final,2/12/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-73-4.pdf
+595,A Profile for U.S. Federal Cryptographic Key Management Systems (CKMS),SP,800-152,Final,10/28/2015,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-152.pdf
+596,Guide to Application Whitelisting,SP,800-167,Final,10/28/2015,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-167.pdf
+597,Computer Security Division 2014 Annual Report,SP,800-176,Final,8/20/2015,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-176.pdf
+598,Guidelines for the Authorization of Personal Identity Verification Card Issuers (PCI) and Derived PIV Credential Issuers (DPCI),SP,800-79-2,Final,7/30/2015,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-79-2.pdf
+599,Recommendation for Random Number Generation Using Deterministic Random Bit Generators,SP,800-90A Rev. 1,Final,6/24/2015,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf
+600,"Conformance Testing Methodology Framework for ANSI/NIST-ITL 1-2011 Update: 2013, Data Format for the Interchange of Fingerprint, Facial & Other Biometric Information",SP,500-304,Final,6/24/2015,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-304.pdf
+601,Cryptographic Algorithms and Key Sizes for Personal Identity Verification,SP,800-78-4,Final,5/29/2015,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-78-4.pdf
+602,"Recommendation for Key Management, Part 3: Application-Specific Key Management Guidance",SP,800-57 Part 3 Rev. 1,Final,1/22/2015,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57Pt3r1.pdf
+603,Guidelines for Derived Personal Identity Verification (PIV) Credentials,SP,800-157,Final,12/19/2014,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-157.pdf
+604,Guidelines for Media Sanitization,SP,800-88 Rev. 1,Final,12/17/2014,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf
+605,Computer Security Division 2013 Annual Report,SP,800-170,Final,9/04/2014,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-170.pdf
+606,BIOS Protection Guidelines for Servers,SP,800-147B,Final,8/28/2014,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-147B.pdf
+607,Approximate Matching: Definition and Terminology,SP,800-168,Final,7/02/2014,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-168.pdf
+608,Guidelines on Mobile Device Forensics,SP,800-101 Rev. 1,Final,5/15/2014,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-101r1.pdf
+609,Secure Domain Name System (DNS) Deployment Guide,SP,800-81-2,Final,9/18/2013,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81-2.pdf
+610,A Framework for Designing Cryptographic Key Management Systems,SP,800-130,Final,8/15/2013,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-130.pdf
+611,Guide to Malware Incident Prevention and Handling for Desktops and Laptops,SP,800-83 Rev. 1,Final,7/22/2013,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-83r1.pdf
+612,Computer Security Division 2012 Annual Report,SP,800-165,Final,7/22/2013,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-165.pdf
+613,Biometric Specifications for Personal Identity Verification,SP,800-76-2,Final,7/11/2013,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-76-2.pdf
+614,Recommendation for Block Cipher Modes of Operation: Methods for Key Wrapping,SP,800-38F,Final,12/13/2012,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38F.pdf
+615,Guide for Conducting Risk Assessments,SP,800-30 Rev. 1,Final,9/17/2012,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf
+616,Recommendation for Applications Using Approved Hash Algorithms,SP,800-107 Rev. 1,Final,8/24/2012,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-107r1.pdf
+617,Computer Security Incident Handling Guide,SP,800-61 Rev. 2,Final,8/06/2012,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf
+618,Cloud Computing Synopsis and Recommendations,SP,800-146,Final,5/29/2012,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-146.pdf
+619,The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.2,SP,800-126 Rev. 2,Final,3/19/2012,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-126r2.pdf
+620,Guidelines for Securing Wireless Local Area Networks (WLANs),SP,800-153,Final,2/21/2012,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-153.pdf
+621,Recommendation for Existing Application-Specific Key Derivation Functions,SP,800-135 Rev. 1,Final,12/23/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-135r1.pdf
+622,Guidelines on Security and Privacy in Public Cloud Computing,SP,800-144,Final,12/09/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-144.pdf
+623,Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations,SP,800-137,Final,9/30/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-137.pdf
+624,The NIST Definition of Cloud Computing,SP,800-145,Final,9/28/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf
+625,BIOS Protection Guidelines,SP,800-147,Final,4/29/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-147.pdf
+626,"Managing Information Security Risk: Organization, Mission, and Information System View",SP,800-39,Final,3/01/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf
+627,The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.1,SP,800-126 Rev. 1,Final,2/25/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-126r1.pdf
+628,Guide to Using Vulnerability Naming Schemes,SP,800-51 Rev. 1,Final,2/25/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-51r1.pdf
+629,Guide to Security for Full Virtualization Technologies,SP,800-125,Final,1/28/2011,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-125.pdf
+630,Guidelines for the Secure Deployment of IPv6,SP,800-119,Final,12/29/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-119.pdf
+631,Recommendation for Password-Based Key Derivation: Part 1: Storage Applications,SP,800-132,Final,12/22/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-132.pdf
+632,Contingency Planning Guide for Federal Information Systems,SP,800-34 Rev. 1,Final,11/11/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-34r1.pdf
+633,Recommendation for Block Cipher Modes of Operation: Three Variants of Ciphertext Stealing for CBC Mode,SP,800-38A,Final,10/21/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a-add.pdf
+634,Practical Combinatorial Testing,SP,800-142,Final,10/07/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-142.pdf
+635,A Statistical Test Suite for Random and Pseudorandom Number Generators for Cryptographic Applications,SP,800-22 Rev. 1,Final,4/30/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-22r1a.pdf
+636,Guide to Protecting the Confidentiality of Personally Identifiable Information (PII),SP,800-122,Final,4/06/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-122.pdf
+637,Recommendation for Block Cipher Modes of Operation:  the XTS-AES Mode for Confidentiality on Storage Devices,SP,800-38E,Final,1/18/2010,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38e.pdf
+638,Guidelines on Firewalls and Firewall Policy,SP,800-41 Rev. 1,Final,9/28/2009,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-41r1.pdf
+639,Recommendation for Digital Signature Timeliness,SP,800-102,Final,9/23/2009,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-102.pdf
+640,Technical Guide to Information Security Testing and Assessment,SP,800-115,Final,9/30/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf
+641,Guide for Mapping Types of Information and Information Systems to Security Categories,SP,800-60 Vol. 1 Rev. 1,Final,8/01/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-60v1r1.pdf
+642,Guide for Mapping Types of Information and Information Systems to Security Categories: Appendices,SP,800-60 Vol. 2 Rev. 1,Final,8/01/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-60v2r1.pdf
+643,Guide to General Server Security,SP,800-123,Final,7/25/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-123.pdf
+644,Performance Measurement Guide for Information Security,SP,800-55 Rev. 1,Final,7/16/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-55r1.pdf
+645,Guide to SSL VPNs,SP,800-113,Final,7/01/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-113.pdf
+646,Guidelines on Active Content and Mobile Code,SP,800-28 Version 2,Final,3/07/2008,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-28ver2.pdf
+647,Recommendation for Block Cipher Modes of Operation: Galois/Counter Mode (GCM) and GMAC,SP,800-38D,Final,11/28/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38d.pdf
+648,Guide to Storage Encryption Technologies for End User Devices,SP,800-111,Final,11/15/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-111.pdf
+649,Guidelines on Securing Public Web Servers,SP,800-44 Version 2,Final,10/09/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-44ver2.pdf
+650,Guide to Secure Web Services,SP,800-95,Final,8/29/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-95.pdf
+651,Recommendation for Block Cipher Modes of Operation: the CCM Mode for Authentication and Confidentiality,SP,800-38C,Final,7/20/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38c.pdf
+652,Guidelines for Securing Radio Frequency Identification (RFID) Systems,SP,800-98,Final,4/06/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-98.pdf
+653,Information Security Handbook: A Guide for Managers,SP,800-100,Final,3/07/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-100.pdf
+654,Guidelines on Electronic Mail Security,SP,800-45 Version 2,Final,2/20/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-45ver2.pdf
+655,Guide to Intrusion Detection and Prevention Systems (IDPS),SP,800-94,Final,2/20/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-94.pdf
+656,Establishing Wireless Robust Security Networks: A Guide to IEEE 802.11i,SP,800-97,Final,2/07/2007,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-97.pdf
+657,PIV Card to Reader Interoperability Guidelines,SP,800-96,Final,12/29/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-96.pdf
+658,Recommendation for Obtaining Assurances for Digital Signature Applications,SP,800-89,Final,11/30/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-89.pdf
+659,"Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities",SP,800-84,Final,9/21/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-84.pdf
+660,Guide to Computer Security Log Management,SP,800-92,Final,9/13/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf
+661,Guide to Integrating Forensic Techniques into Incident Response,SP,800-86,Final,9/01/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf
+662,PIV Data Model Test Guidelines,SP,800-85B,Final,7/31/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-85b.pdf
+663,Guide for Developing Security Plans for Federal Information Systems,SP,800-18 Rev. 1,Final,2/24/2006,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-18r1.pdf
+664,Security Considerations for Voice Over IP Systems,SP,800-58,Final,1/01/2005,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-58.pdf
+665,Guidelines on PDA Forensics,SP,800-72,Final,11/01/2004,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-72.pdf
+666,Guide to Information Technology Security Services,SP,800-35,Final,10/09/2003,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-35.pdf
+667,Building an Information Technology Security Awareness and Training Program,SP,800-50,Final,10/01/2003,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-50.pdf
+668,Guideline for Identifying an Information System as a National Security System,SP,800-59,Final,8/20/2003,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-59.pdf
+669,Federal S/MIME V3 Client Profile,SP,800-49,Final,11/05/2002,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-49.pdf
+670,Recommendation for Block Cipher Modes of Operation: Methods and Techniques,SP,800-38A,Final,12/01/2001,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a.pdf
+671,Information Technology Security Training Requirements: a Role- and Performance-Based Model,SP,800-16,Final,4/01/1998,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-16.pdf
+672,Security in ISDN,SP,500-189,Final,9/01/1991,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-189.pdf
+673,Guide for Selecting Automated Risk Analysis Tools,SP,500-174,Final,10/01/1989,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-174.pdf
+674,Executive Guide to the Protection of Information Resources,SP,500-169,Final,10/01/1989,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-169.pdf
+675,Management Guide to the Protection of Information Resources,SP,500-170,Final,10/01/1989,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-170.pdf
+676,Computer Users' Guide to the Protection of Information Resources,SP,500-171,Final,10/01/1989,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-171.pdf
+677,Computer Viruses and Related Threats: a Management Guide,SP,500-166,Final,8/01/1989,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-166.pdf
+678,Report of the Invitational Workshop on Integrity Policy in Computer Information Systems (WIPCIS),SP,500-160,Final,1/01/1989,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-160.pdf
+679,Smart Card Technology: New Methods for Computer Access Control,SP,500-157,Final,9/01/1988,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-157.pdf
+680,"Accuracy, Integrity, and Security in Computerized Vote-Tallying",SP,500-158,Final,8/01/1988,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-158.pdf
+681,Message Authentication Code (MAC) Validation System: Requirements and Procedures,SP,500-156,Final,5/01/1988,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-156.pdf
+682,Guide to Auditing for Controls and Security: A System Development Life Cycle Approach,SP,500-153,Final,4/01/1988,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-153.pdf
+683,Security for Dial-Up Lines,SP,500-137,Final,5/01/1986,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-137.pdf
+684,Guide on Selecting ADP Backup Process Alternatives,SP,500-134,Final,11/01/1985,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-134.pdf
+685,Technology Assessment: Methods for Measuring the Level of Computer Security,SP,500-133,Final,10/01/1985,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-133.pdf
+686,Security of Personal Computer Systems: A Management Guide,SP,500-120,Final,1/01/1985,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-120.pdf
+687,Overview of Computer Security Certification and Accreditation,SP,500-109,Final,4/01/1984,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-109.pdf
+688,Executive Guide to ADP Contingency Planning,SP,500-85,Final,1/01/1982,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-85.pdf
+689,Validating the Correctness of Hardware Implementations of the NBS Data Encryption Standard,SP,500-20,Final,9/01/1980,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-20e1980.pdf
+690,Maintenance Testing for the Data Encryption Standard,SP,500-61,Final,8/01/1980,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-61.pdf
+691,Audit and Evaluation of Computer Security II: System Vulnerabilities and Controls,SP,500-57,Final,4/01/1980,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-57.pdf
+692,A Key Notarization System for Computer Networks,SP,500-54,Final,10/01/1979,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-54.pdf
+693,A Survey of Remote Monitoring,SP,500-42,Final,1/01/1979,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-42.pdf
+694,Effective Use of Computing Technology in Vote-Tallying,SP,500-30,Final,4/01/1978,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-30.pdf
+695,Computer Security and the Data Encryption Standard: Proceedings of the Conference on Computer Security and the Data Encryption Standard,SP,500-27,Final,2/01/1978,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-27.pdf
+696,An Analysis of Computer Security Safeguards for Detecting and Preventing Intentional Computer Misuse,SP,500-25,Final,1/01/1978,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-25.pdf
+697,Performance Assurance and Data Integrity Practices,SP,500-24,Final,1/01/1978,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-24.pdf
+698,The Network Security Center: a System Level Approach to Computer Network Security,SP,500-21 Vol. 2,Final,1/01/1978,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-21v2.pdf
+699,Design Alternatives for Computer Network Security,SP,500-21 Vol. 1,Final,1/01/1978,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-21v1.pdf
+700,Audit and Evaluation of Computer Security,SP,500-19,Final,10/01/1977,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-19.pdf
+701,The Use of Passwords for Controlled Access to Computer Resources,SP,500-9,Final,5/01/1977,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-9.pdf
+702,"Approaches to Privacy and Security in Computer Systems: Proceedings of a Conference Held at the National Bureau of Standards March 4-5, 1974",SP,404,Final,9/01/1974,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication404.pdf
+703,Manufacturing Supply Chain Traceability with Blockchain Related Technology: Reference Implementation,Project Description,,Final,8/14/2023,https://www.nccoe.nist.gov/sites/default/files/2023-08/mfg-sct-blkchn-project-description-final.pdf
+704,Youth understandings of online privacy and security: A dyadic study of children and their parents,Conference Paper,,Final,8/07/2023,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=934521
+705,Peering into the Phish Bowl: An Analysis of Real-World Phishing Cues,Conference Paper,,Final,8/07/2023,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=956178
+706,Mind the Gap: Exploring Human-Centered Security Researcher-Practitioner Interactions (Extended Abstract),Conference Paper,,Final,8/06/2023,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=956182
+707,How to Scale a Phish: An Investigation into the Use of the NIST Phish Scale,Conference Paper,,Final,8/06/2023,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=956177
+708,Cybersecurity Definitions for Non-Experts,Conference Paper,,Final,8/06/2023,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=956181
+709,Analyzing Cybersecurity Definitions for Non-experts,Conference Paper,,Final,7/26/2023,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=936618
+710,Cybersecurity for the Water and Wastewater Sector: A Practical Reference Design for Mitigating Cyber Risk in Water and Wastewater Systems,Project Description,,Final,6/20/2023,https://www.nccoe.nist.gov/sites/default/files/2023-06/securing-water-and-wastewater-utilities-project-description-final.pdf
+711,Accelerate Adoption of Digital Identities on Mobile Devices: Identity Management,Project Description,,Final,6/01/2023,https://www.nccoe.nist.gov/sites/default/files/2023-06/mdl-project-description-final.pdf
+712,User Perceptions and Experiences with Smart Home Updates,Conference Paper,,Final,5/22/2023,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=935232
+713,Empirical Validation of Automated Vulnerability Curation and Characterization,Journal Article,,Final,2/28/2023,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=932075
+714,"An Investigation of Roles, Backgrounds, Knowledge, and Skills of U.S. Government Security Awareness Professionals",Conference Paper,,Final,1/17/2023,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=934639
+715,Responding to and Recovering from a Cyber Attack: Cybersecurity for the Manufacturing Sector (Rev. 1),Project Description,,Final,12/22/2022,https://www.nccoe.nist.gov/sites/default/files/2022-12/mfg-recovery-project-description-final-r1.pdf
+716,The Generation of Software Security Scoring Systems Leveraging Human Expert Opinion,Conference Paper,,Final,11/18/2022,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=932303
+717,"Mitigating AI/ML Bias in Context: Establishing Practices for Testing, Evaluation, Verification, and Validation of AI Systems",Project Description,,Final,11/09/2022,https://www.nccoe.nist.gov/sites/default/files/2022-11/ai-bias-pd-final.pdf
+718,Software Supply Chain and DevOps Security Practices: Implementing a Risk-Based Approach to DevSecOps,Project Description,,Final,11/09/2022,https://www.nccoe.nist.gov/sites/default/files/2022-11/dev-sec-ops-project-description-final.pdf
+719,New Bounds on the Multiplicative Complexity of Boolean Functions,Conference Paper,,Final,9/11/2022,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=935024
+720,Mitigating Cybersecurity Risk in Telehealth Smart Home Integration: Cybersecurity for the Healthcare Sector,Project Description,,Final,8/29/2022,https://www.nccoe.nist.gov/publications/project-description/mitigating-cybersecurity-risk-telehealth-smart-home-integration-0
+721,Improving Support-Minors Rank Attacks: Applications to GeMSS and Rainbow,Conference Paper,,Final,8/12/2022,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=933540
+722,Measuring the Effectiveness of U.S. Government Security Awareness Programs: A Mixed-Methods Study (Short Paper),Conference Paper,,Final,8/07/2022,https://security-information-workers.org/2022/downloads/Measuring%20the%20effectiveness.pdf
+723,Investigating youths' learning of online safety and privacy from others: A discussion of study design and statistical analysis considerations,Conference Paper,,Final,8/07/2022,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=935011
+724,Challenges to building youth's online safety knowledge from a family perspective: Results from a youth/parent dyad study,Conference Paper,,Final,8/07/2022,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=935048
+725,Knowledge Mining in Cybersecurity: From Attack to Defense,Conference Paper,,Final,7/13/2022,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=934782
+726,Lessons Learned and Suitability of Focus Groups in Security Information Workers Research,Conference Paper,,Final,6/16/2022,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=934031
+727,Pairs of Heron and right triangles with a common area and a common perimeter,Journal Article,,Final,5/23/2022,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=934575
+728,A New Conditional Cube Attack on Reduced-Round Ascon-128a in a Nonce-misuse Setting,Conference Paper,,Final,5/09/2022,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=934568
+729,The Path to Consensus on Artificial Intelligence Assurance,Journal Article,,Final,3/15/2022,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=932907
+730,Security Auditing of Internet of Things Devices in a Smart Home,Conference Paper,,Final,10/15/2021,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=931460
+731,Metamorphic Testing for Hybrid Simulation Validation,Conference Paper,,Final,10/05/2021,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=932547
+732,Development of the Advanced Encryption Standard,Journal Article,,Final,8/16/2021,https://nvlpubs.nist.gov/nistpubs/jres/126/jres.126.024.pdf
+733,"It's the Company, the Government, You and I: User Perceptions of Responsibility for Smart Home Privacy and Security",Conference Paper,,Final,8/11/2021,https://www.usenix.org/system/files/sec21-haney.pdf
+734,Migration to Post-Quantum Cryptography,Project Description,,Final,8/04/2021,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/pqc-migration-project-description-final.pdf
+735,Exploring Government Security Awareness Programs: A Mixed-Methods Approach,Conference Paper,,Final,8/03/2021,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=932636
+736,Data Classification Practices: Facilitating Data-Centric Security Management,Project Description,,Final,7/22/2021,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/data-classification-project-description-final.pdf
+737,Deep Learning for Detecting Network Attacks: An End to End approach,Conference Paper,,Final,7/19/2021,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=930878
+738,Cybersecurity Advocates: Force Multipliers in Security Behavior Change,Journal Article,,Final,7/05/2021,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10087777/
+739,Automation of the Cryptographic Module Validation Program (CMVP),Project Description,,Final,7/01/2021,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/cmvp-project-description-final.pdf
+740,A Pseudo Exhaustive Software Testing Framework for Embedded Digital Devices in Nuclear Power,Conference Paper,,Final,6/14/2021,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=932114
+741,Combinatorially XSSing Web Application Firewalls,Conference Paper,,Final,5/28/2021,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=931831
+742,Addressing Visibility Challenges with TLS 1.3,Project Description,,Final,5/26/2021,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/tls-visibility-project-description-final.pdf
+743,Trusted Internet of Things (IoT) Device Network-Layer Onboarding and Lifecycle Management: Enhancing Internet Protocol-Based IoT Device and Network Security,Project Description,,Final,5/20/2021,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/trusted-iot-network-device-project-description-final.pdf
+744,A Historical and Statistical Study of the Software Vulnerability Landscape,Conference Paper,,Final,4/18/2021,https://www.thinkmind.org/index.php?view=article&articleid=softeng_2021_1_10_90001
+745,Cybersecurity Advocates: Discovering the Characteristics and Skills for an Emergent Role,Journal Article,,Final,3/22/2021,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8628570/
+746,Cybersecurity Standards and Guidelines to Assist Small and Medium-Sized Manufacturers,Journal Article,,Final,3/18/2021,https://share.ansi.org/Shared%20Documents/Standards%20Activities/International%20Standardization/IEC/USNC%20Current/News%20and%20Notes/Vol.%2016%20No.%201%20Spring%202021.pdf#page=6
+747,Combinatorial Test Generation for Multiple Input Models with Shared Parameters,Journal Article,,Final,3/17/2021,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=931133
+748,Isogenies on twisted Hessian curves,Journal Article,,Final,3/16/2021,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=929415
+749,On the Family of Elliptic Curves X + 1/X + Y + 1/Y + t = 0,Journal Article,,Final,2/23/2021,https://csrc.nist.govhttp://math.colgate.edu/~integers/v18/v18.pdf
+750,Implementing a Zero Trust Architecture,Project Description,,Final,10/21/2020,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/zta-project-description-final.pdf
+751,"Security Awareness Training for the Workforce: Moving Beyond ""Check-the-Box"" Compliance",Journal Article,,Final,10/01/2020,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8201414/
+752,Towards Usable Updates for Smart Home Devices,Conference Paper,,Final,9/17/2020,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=930027
+753,Security Considerations for Exchanging Files Over the Internet,ITL Bulletin,,Final,8/03/2020,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2020-08.pdf
+754,A Suite of Metrics for Calculating the Most Significant Security Relevant Software Flaw Types,Conference Paper,,Final,7/13/2020,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=929586
+755,NIST Privacy Framework: An Overview,ITL Bulletin,,Final,6/24/2020,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2020-06.pdf
+756,Defining Actionable Rules for Verifying IoT Security [poster],Conference Paper,,Final,5/18/2020,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=930071
+757,5G Cybersecurity: Preparing a Secure Evolution to 5G,Project Description,,Final,4/13/2020,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/5G-pse-project-description-final.pdf
+758,Critical Cybersecurity Hygiene: Patching the Enterprise,Project Description,,Final,3/30/2020,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/ch-pe-project-description-final.pdf
+759,Validating the Integrity of Computing Devices: Supply Chain Assurance,Project Description,,Final,3/26/2020,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/tpm-sca-project-description-final.pdf
+760,"Security for Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Solutions",ITL Bulletin,,Final,3/18/2020,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2020-03.pdf
+761,"Method for Effective Measurement, Labeling, and Classification of Botnet C2s for Predicting Attacks [poster]",Conference Paper,,Final,2/23/2020,https://www.ndss-symposium.org/wp-content/uploads/2020/02/NDSS2020posters_paper_6.pdf
+762,Protecting Information and System Integrity in Industrial Control Systems Environments: Cybersecurity for the Manufacturing Sector,Project Description,,Final,2/07/2020,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/mfg-ics-final-project-description-final.pdf
+763,"Data Confidentiality: Detect, Respond to, and Recover from Data Breaches",Project Description,,Final,12/05/2019,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/dc-drr-project-description-final.pdf
+764,Data Confidentiality: Identifying and Protecting Assets and Data Against Data Breaches,Project Description,,Final,12/05/2019,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/dc-ip-project-description-final.pdf
+765,Augmenting Fiat Currency with an Integrated Managed Cryptocurrency,Conference Paper,,Final,11/24/2019,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=928645
+766,Implementing a Protocol Native Managed Cryptocurrency,Conference Paper,,Final,11/24/2019,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=927618
+767,Securing the Industrial Internet of Things: Cybersecurity for Distributed Energy Resources,Project Description,,Final,8/15/2019,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/es-iiot-project-description-final.pdf
+768,Security Awareness in Action: A Case Study [extended abstract],Conference Paper,,Final,8/11/2019,https://wsiw2019.sec.uni-hannover.de/downloads/Security%20Awareness%20in%20Action.pdf
+769,"Perceptions of Smart Home Privacy and Security Responsibility, Concerns, and Mitigations",Conference Paper,,Final,8/11/2019,https://www.usenix.org/sites/default/files/soups2019posters-haney.pdf
+770,FIPS 140-3 Adopts ISO/IEC Standards,ITL Bulletin,,Final,5/20/2019,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2019-05.pdf
+771,Securing Telehealth Remote Patient Monitoring Ecosystem: Cybersecurity for the Healthcare Sector,Project Description,,Final,5/13/2019,https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/hit-th-project-description-final.pdf
+772,Time to Standardize Threshold Schemes for Cryptographic Primitives,ITL Bulletin,,Final,4/09/2019,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2019-04.pdf
+773,Smart Contract Federated Identity Management without Third Party Authentication Services,Conference Paper,,Final,3/28/2019,https://dl.gi.de/handle/20.500.12116/20992
+774,"The Next Generation Risk Management Framework (RMF 2.0): A Holistic Methodology to Manage Information Security, Privacy and Supply Chain Risk",ITL Bulletin,,Final,2/28/2019,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2019-02.pdf
+775,Elliptic Curves Arising from Triangular Numbers,Journal Article,,Final,2/01/2019,https://csrc.nist.govhttp://math.colgate.edu/~integers/vol19.html
+776,Securing Wireless Infusion Pumps,ITL Bulletin,,Final,12/19/2018,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2018-12.pdf
+777,One Block at a Time – Helping to Build Blockchain Knowledge,ITL Bulletin,,Final,10/25/2018,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2018-10.pdf
+778,Automated Cryptographic Validation (ACV) Testing,ITL Bulletin,,Final,9/20/2018,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2018-09.pdf
+779,"""We make it a big deal in the company"": Security Mindsets in Organizations that Develop Cryptographic Products",Conference Paper,,Final,8/12/2018,https://www.usenix.org/system/files/conference/soups2018/soups2018-haney-mindsets.pdf
+780,Assessing Implementation of Controlled Unclassified Information (CUI) Security Requirements,ITL Bulletin,,Final,7/26/2018,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2018-07.pdf
+781,In IoT We Trust?,Journal Article,,Final,7/13/2018,https://iot.ieee.org/newsletter/july-2018/in-iot-we-trust
+782,Putting First Things First – A Model Process for Criticality Analysis,ITL Bulletin,,Final,6/26/2018,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2018-06.pdf
+783,Baseline Tailor,Journal Article,,Final,6/26/2018,https://nvlpubs.nist.gov/nistpubs/jres/123/jres.123.007.pdf
+784,Protecting Software Integrity Through Code Signing,ITL Bulletin,,Final,5/23/2018,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2018-05.pdf
+785,"Improving the Trustworthiness of Email, and Beyond!",ITL Bulletin,,Final,4/25/2018,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2018-04.pdf
+786,Safeguards for Securing Virtualized Servers,ITL Bulletin,,Final,3/27/2018,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2018-03.pdf
+787,"Energy Sector Asset Management: For Electric Utilities, Oil & Gas Industry",Project Description,,Final,3/01/2018,https://www.nccoe.nist.gov/sites/default/files/2021-09/es-am-project-description-final.pdf
+788,Securing Tomorrow's Information Through Post-Quantum Cryptography,ITL Bulletin,,Final,2/27/2018,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2018-02.pdf
+789,Could the Internet of Things Be Used to Enhance Student Nurses’ Experiences in a Disaster Simulation?,Journal Article,,Final,2/27/2018,https://csrc.nist.govhttp://www.himss.org/library/could-internet-things-be-used-enhance-student-nurses-experiences-disaster-simulation
+790,User Context: An Explanatory Variable in Phishing Susceptibility,Conference Paper,,Final,2/18/2018,https://www.ndss-symposium.org/wp-content/uploads/2018/07/usec2018_01-2_Greene_paper.pdf
+791,Data Integrity: Identifying and Protecting Assets Against Ransomware and Other Destructive Events,Project Description,,Final,2/07/2018,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/di-identify-protect-project-description-final.pdf
+792,Data Integrity: Detecting and Responding to Ransomware and Other Destructive Events,Project Description,,Final,2/07/2018,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/di-detect-respond-project-description-final.pdf
+793,Educating Next-Gen Computer Scientists,Journal Article,,Final,1/31/2018,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=924636
+794,Guidance for Improving LTE-Based Mobile Communications Security,ITL Bulletin,,Final,1/29/2018,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2018-01.pdf
+795,Securing Picture Archiving and Communication System (PACS): Cybersecurity for the Healthcare Sector,Project Description,,Final,1/23/2018,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/hit-pacs-project-description-final.pdf
+796,Thermodynamic Analysis of Classical and Quantum Search Algorithms,Conference Paper,,Final,1/19/2018,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=924493
+797,Mitigating IoT-based Distributed Denial of Service (DDOS),Project Description,,Final,12/14/2017,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/iot-ddos-project-description-final.pdf
+798,Guidance on TDEA Block Ciphers,ITL Bulletin,,Final,11/27/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-11.pdf
+799,TLS Server Certificate Management,Project Description,,Final,11/09/2017,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/tls-serv-cert-mgt-project-description-final.pdf
+800,SARD: Thousands of Reference Programs for Software Assurance,Journal Article,,Final,11/02/2017,https://www.csiac.org/journal-article/sard-thousands-of-reference-programs-for-software-assurance/
+801,NIST Guidance on Application Container Security,ITL Bulletin,,Final,10/24/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-10.pdf
+802,Updating the Keys for DNS Security,ITL Bulletin,,Final,9/27/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-09.pdf
+803,Securing Property Management Systems: Cybersecurity for the Hospitality Sector,Project Description,,Final,9/13/2017,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/hosp-pms-project-description-final.pdf
+804,Understanding the Major Update to NIST SP 800-63: Digital Identity Guidelines,ITL Bulletin,,Final,8/29/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-08.pdf
+805,Updated NIST Guidance for Bluetooth Security,ITL Bulletin,,Final,7/25/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-07.pdf
+806,Secure Inter-Domain Routing--Part 1: Route Hijacks,Project Description,,Final,7/06/2017,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/sidr-project-description-final.pdf
+807,Toward Standardizing Lightweight Cryptography,ITL Bulletin,,Final,6/20/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-06.pdf
+808,Geometric Progressions on Elliptic Curves,Journal Article,,Final,6/13/2017,https://web.math.pmf.unizg.hr/glasnik/vol_52/no1_01.html
+809,Inferring Previously Uninstalled Applications from Digital Traces,Conference Paper,,Final,5/26/2017,https://csrc.nist.govhttp://commons.erau.edu/adfsl/2016/wednesday/3/
+810,Cyber-Threat Intelligence and Information Sharing,ITL Bulletin,,Final,5/08/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-05.pdf
+811,Building the Bridge Between Privacy and Cybersecurity for Federal Systems,ITL Bulletin,,Final,4/18/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-04.pdf
+812,Fundamentals of Small Business Information Security,ITL Bulletin,,Final,3/13/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-03.pdf
+813,"Must I, can I? I don’t understand your ambiguous password rules",Journal Article,,Final,3/13/2017,https://csrc.nist.gov/csrc/media/projects/Usable-Cybersecurity/images-media/ICS-06-2016-0043.pdf
+814,Capabilities Assessment for Securing Manufacturing Industrial Control Systems,Project Description,,Final,3/09/2017,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/mf-ics-1-project-description-final.pdf
+815,Guide for Cybersecurity Incident Recovery,ITL Bulletin,,Final,2/17/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-02.pdf
+816,Dramatically Reducing Software Vulnerabilities,ITL Bulletin,,Final,1/17/2017,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2017-01.pdf
+817,Arithmetic Progressions on Conics,Journal Article,,Final,12/27/2016,https://cs.uwaterloo.ca/journals/JIS/VOL20/Moody/moody7.html
+818,Rethinking Security Through Systems Security Engineering,ITL Bulletin,,Final,12/21/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-12.pdf
+819,Mobile Application Single Sign-On: for Public Safety and First Responders,Project Description,,Final,11/28/2016,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/psfr-mobile-sso-project-description-final.pdf
+820,Exploring the Next Generation of Access Control Methodologies,ITL Bulletin,,Final,11/21/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-11.pdf
+821,The Power of Qualitative Methods: Aha Moments in Exploring Cybersecurity and Trust,Journal Article,,Final,11/01/2016,https://csrc.nist.govhttp://uxpamagazine.org/the-power-of-qualitative-methods/
+822,Making Email Trustworthy,ITL Bulletin,,Final,10/24/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-10.pdf
+823,High Rank Elliptic Curves with Torsion Z/4Z Induced by Kihara's Elliptic Curves,Journal Article,,Final,10/05/2016,https://csrc.nist.govhttp://math.colgate.edu/~integers/vol16.html
+824,Demystifying the Internet of Things,ITL Bulletin,,Final,9/23/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-09.pdf
+825,Multifactor Authentication for e-Commerce: Online Authentication for the Retail Sector,Project Description,,Final,9/20/2016,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/cr-mfa-project-description-final.pdf
+826,Whatever Happened to Formal Methods for Security?,Journal Article,,Final,8/23/2016,https://www.computer.org/csdl/mags/co/2016/08/mco2016080070.html
+827,NIST Updates Personal Identity Verification (PIV) Guidelines,ITL Bulletin,,Final,8/09/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-08.pdf
+828,Improving Security and Software Management Through the Use of SWID Tags,ITL Bulletin,,Final,7/13/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-07.pdf
+829,Extending Network Security into Virtualized Infrastructure,ITL Bulletin,,Final,6/03/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-06.pdf
+830,Combinatorial Testing for Cybersecurity and Reliability,ITL Bulletin,,Final,5/12/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-05.pdf
+831,Combinatorial Coverage Analysis of Subsets of the TLS Cipher Suite Registry,Conference Paper,,Final,5/10/2016,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1232.pdf#page=931
+832,Data Integrity: Recovering from a destructive malware attack,Project Description,,Final,5/09/2016,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/data-integrity-project-description-final.pdf
+833,"New NIST Security Standard Can Protect Credit Cards, Health Information",ITL Bulletin,,Final,4/14/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-04.pdf
+834,Performance Evaluation of Secure Industrial Control System Design: A Railway Control System Case Study,Conference Paper,,Final,4/05/2016,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=919753
+835,Analysis of Virtual Networking Options for Securing Virtual Machines,Conference Paper,,Final,3/20/2016,https://csrc.nist.govhttp://www.thinkmind.org/download.php?articleid=cloud_computing_2016_5_20_20037
+836,Updates to the NIST SCAP Validation Program and Associated Test Requirements,ITL Bulletin,,Final,3/15/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-03.pdf
+837,Linear Time Vertex Partitioning on Massive Graphs,Journal Article,,Final,3/07/2016,https://csrc.nist.govhttp://www.orb-academic.org/index.php/journal-of-computer-science/article/view/232
+838,Domain Name System-Based Security for Electronic Mail,Project Description,,Final,3/04/2016,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/dns-secure-email-project-description-final.pdf
+839,Implementing Trusted Geolocation Services in the Cloud,ITL Bulletin,,Final,2/17/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-02.pdf
+840,Securing Interactive and Automated Access Management Using Secure Shell (SSH),ITL Bulletin,,Final,1/11/2016,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2016-01.pdf
+841,Stopping Malware and Unauthorized Software through Application Whitelisting,ITL Bulletin,,Final,12/15/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-12.pdf
+842,Wireless Medical Infusion Pumps: Medical Device Security,Project Description,,Final,12/01/2015,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/hit-infusion-pump-project-description-final.pdf
+843,Tailoring Security Controls for Industrial Control Systems,ITL Bulletin,,Final,11/16/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-11.pdf
+844,Minimizing Attack Graph Data Structures,Conference Paper,,Final,11/15/2015,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=917681
+845,Protection of Controlled Unclassified Information,ITL Bulletin,,Final,10/19/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-10.pdf
+846,Additional Secure Hash Algorithm Standards Offer New Opportunities for Data Protection,ITL Bulletin,,Final,9/24/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-09.pdf
+847,Software Asset Management: Continuous Monitoring,Project Description,,Final,9/16/2015,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/sam-project-description-final.pdf
+848,Recommendation for Random Number Generation Using Deterministic Random Bit Generators,ITL Bulletin,,Final,8/13/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-08.pdf
+849,Improved Security and Mobility Through Updated Interfaces for PIV Cards,ITL Bulletin,,Final,7/21/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-07.pdf
+850,PFLASH - Secure Asymmetric Signatures on Smart Cards,Conference Paper,,Final,7/20/2015,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=926103
+851,Increasing Visibility and Control of Your ICT Supply Chains,ITL Bulletin,,Final,6/15/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-06.pdf
+852,Authentication Considerations for Public Safety Mobile Networks,ITL Bulletin,,Final,5/14/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-05.pdf
+853,Is Your Replication Device Making An Extra Copy For Someone Else?,ITL Bulletin,,Final,4/16/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-04.pdf
+854,Password Entry Errors: Memory or Motor?,Conference Paper,,Final,4/09/2015,https://iccm-conference.neocities.org/2015/proceedings/papers/0059/paper0059.pdf
+855,Attribute Based Access Control,Project Description,,Final,4/01/2015,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/abac-project-description-final.pdf
+856,Combinatorial Coverage as an Aspect of Test Quality,Journal Article,,Final,3/31/2015,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=917352
+857,Guidance for Secure Authorization of Mobile Applications in the Corporate Environment,ITL Bulletin,,Final,3/19/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-03.pdf
+858,"NIST Special Publication 800-88 Revision 1, Guidelines for Media Sanitization",ITL Bulletin,,Final,2/05/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-02.pdf
+859,"Release of NIST Special Publication 800-53A, Revision 4, Assessing Security and Privacy Controls in Federal Information Systems and Organizations",ITL Bulletin,,Final,1/29/2015,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2015-01.pdf
+860,Measuring Impact of Cybersecurity on the Performance of Industrial Control Systems,Journal Article,,Final,12/31/2014,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=917176
+861,"Release Of NIST Special Publication 800-157, Guidelines For Derived Personal Identity Verification (PIV) Credentials",ITL Bulletin,,Final,12/30/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-12.pdf
+862,Cryptographic Module Validation Program (CMVP),ITL Bulletin,,Final,12/01/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-11.pdf
+863,"Release of NIST Special Publication 800-147B, BIOS Protection Guidelines for Servers",ITL Bulletin,,Final,10/29/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-10.pdf
+864,A Cybersecurity Testbed for Industrial Control Systems,Conference Paper,,Final,10/06/2014,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=915876
+865,"Release of NIST Interagency Report 7628 Revision 1, Guidelines for Smart Grid Cybersecurity",ITL Bulletin,,Final,9/29/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-09.pdf
+866,Mobile Device Security for Enterprises,Project Description,,Final,9/12/2014,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/mds-project-description-final.pdf
+867,Policy Machine: Towards a General-Purpose Enterprise-Wide Operating Environment,ITL Bulletin,,Final,8/28/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-08.pdf
+868,"Release of NIST Interagency Report 7946, CVSS Implementation Guidance",ITL Bulletin,,Final,7/10/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-07.pdf
+869,ITL Forensic Science Program,ITL Bulletin,,Final,6/05/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-06.pdf
+870,NIST Cybersecurity Framework Addresses Risks to Critical Infrastructure,Journal Article,,Final,6/02/2014,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=915855
+871,Small and Medium-Size Business Information Security Outreach Program,ITL Bulletin,,Final,5/13/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-05.pdf
+872,Attribute Based Access Control (ABAC) Definition and Considerations,ITL Bulletin,,Final,3/07/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-03.pdf
+873,Framework for Improving Critical Infrastructure Cybersecurity,ITL Bulletin,,Final,2/19/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-02.pdf
+874,A Profile of the Key Management Framework for the Federal Government,ITL Bulletin,,Final,1/09/2014,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2014-01.pdf
+875,The National Vulnerability Database (NVD): Overview,ITL Bulletin,,Final,12/18/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-12.pdf
+876,Identity and Access Management: Securing Networked Infrastructure for the Energy Sector,Project Description,,Final,11/05/2013,https://nccoe.nist.gov/sites/default/files/library/project-descriptions/es-idam-project-description-final.pdf
+877,ITL Releases Preliminary Cybersecurity Framework,ITL Bulletin,,Final,11/04/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-11.pdf
+878,ITL Updates Federal Information Processing Standard (FIPS) for Personal Identity Verification (PIV) of Federal Employees and Contractors,ITL Bulletin,,Final,10/22/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-10.pdf
+879,"NIST Opens Draft Special Publication 800-90A, Recommendation for Random Number Generation Using Deterministic Random Bit Generators, For Review and Comment (Supplemental ITL Bulletin for September 2013)",ITL Bulletin,,Final,9/09/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-09-supplemental.pdf
+880,ITL Publishes Guidance on Preventing and Handling Malware Incidents,ITL Bulletin,,Final,8/22/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-09.pdf
+881,ITL Publishes Guidance on Enterprise Patch Management Technologies,ITL Bulletin,,Final,8/08/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-08.pdf
+882,ITL Issues Guidelines for Managing the Security of Mobile Devices,ITL Bulletin,,Final,7/15/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-07.pdf
+883,ITL Publishes Security And Privacy Controls For Federal Agencies,ITL Bulletin,,Final,5/01/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-05.pdf
+884,Security Content Automation Protocol (SCAP) Version 1.2 Validation Program Test Requirements,ITL Bulletin,,Final,4/10/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-04.pdf
+885,NIST to Develop a Cybersecurity Framework to Protect Critical Infrastructure,ITL Bulletin,,Final,3/21/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-03.pdf
+886,Managing Identity Requirements for Remote Users of Information Systems to Protect System Security and Information Privacy,ITL Bulletin,,Final,1/29/2013,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2013-01.pdf
+887,Generating Secure Cryptographic Keys: A Critical Component of Cryptographic Key Management and the Protection of Sensitive Information,ITL Bulletin,,Final,12/19/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-12.pdf
+888,Practices for Managing Supply Chain Risks to Protect Federal Information Systems,ITL Bulletin,,Final,11/27/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-11.pdf
+889,Conducting Information Security-Related Risk Assessments:  Updated Guidelines for Comprehensive Risk Management Programs,ITL Bulletin,,Final,10/25/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-10.pdf
+890,Revised Guide Helps Organizations Handle Security Related Incidents,ITL Bulletin,,Final,9/27/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-09.pdf
+891,Security of Bluetooth Systems and Devices: Updated Guide Issued by the National Institute of Standards and Technology (NIST),ITL Bulletin,,Final,8/13/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-08.pdf
+892,Preparing for and Responding to Certification Authority Compromise and Fraudulent Certificate Issuance,ITL Bulletin,,Final,7/10/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-07.pdf
+893,"Cloud Computing: A Review of Features, Benefits, and Risks, and Recommendations for Secure, Efficient Implementations",ITL Bulletin,,Final,6/27/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-06.pdf
+894,Combinatorial Testing,Book Section,,Final,6/25/2012,https://csrc.nist.govhttp://www.crcnetbase.com/doi/abs/10.1081/E-ESE-120048153
+895,Evaluation of Fault Detection Effectiveness for Combinatorial and Exhaustive Selection of Discretized Test Inputs,Journal Article,,Final,6/04/2012,https://csrc.nist.govhttp://asq.org/software-quality/2012/06/evaluation-of-fault-detection-effectiveness.pdf
+896,Secure Hash Standard: Updated Specifications Approved and Issued as Federal Information Processing Standard (FIPS) 180-4,ITL Bulletin,,Final,5/09/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-05.pdf
+897,Guidelines for Improving Security and Privacy in Public Cloud Computing,ITL Bulletin,,Final,3/28/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-03.pdf
+898,Guidelines for Securing Wireless Local Area Networks (WLANs),ITL Bulletin,,Final,2/27/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-02.pdf
+899,Advancing Security Automation and Standardization:  Revised Technical Specifications Issued for the Security Content Automation Protocol (SCAP),ITL Bulletin,,Final,1/24/2012,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2012-01.pdf
+900,Revised Guideline for Electronic Authentication of Users Helps Organizations Protect the Security of Their Information Systems,ITL Bulletin,,Final,12/22/2011,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2011-12.pdf
+901,Continuous Monitoring of Information Security: An Essential Component of Risk Management,ITL Bulletin,,Final,10/25/2011,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2011-10.pdf
+902,Managing the Configuration of Information Systems with a Focus on Security,ITL Bulletin,,Final,9/26/2011,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2011-09.pdf
+903,Protecting Industrial Control Systems – Key Components of Our Nation's Critical Infrastructures,ITL Bulletin,,Final,8/24/2011,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2011-08.pdf
+904,Guidelines for Protecting Basic Input/Output System (BIOS) Firmware,ITL Bulletin,,Final,6/28/2011,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2011-06.pdf
+905,Using Security Configuration Checklists and the National Checklist Program,ITL Bulletin,,Final,5/25/2011,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2011-05.pdf
+906,Full Virtualization Technologies: Guidelines for Secure Implementation and Management,ITL Bulletin,,Final,4/25/2011,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2011-04.pdf
+907,"Managing Information Security Risk:  Organization, Mission and Information System View",ITL Bulletin,,Final,3/22/2011,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2011-03.pdf
+908,Arithmetic Progressions on Edwards Curves,Journal Article,,Final,2/08/2011,https://cs.uwaterloo.ca/journals/JIS/VOL14/Moody/moody2.html
+909,Internet Protocol Version 6 (IPv6): NIST Guidelines Help Organizations Manage the Secure Deployment of the New Network Protocol,ITL Bulletin,,Final,1/31/2011,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2011-01.pdf
+910,Advanced Combinatorial Test Methods for System Reliability,Journal Article,,Final,12/31/2010,https://csrc.nist.govhttp://rs.ieee.org/images/files/Publications/2010/2010-16.pdf
+911,Securing WiMAX Wireless Communications,ITL Bulletin,,Final,12/27/2010,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2010-12.pdf
+912,The Exchange of Health Information: Designing a Security Architecture to Provide Information Security and Privacy,ITL Bulletin,,Final,11/23/2010,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2010-11.pdf
+913,Security Content Automation Protocol (SCAP): Helping Organizations Maintain and Verify the Security of Their Information Systems,ITL Bulletin,,Final,9/27/2010,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2010-09.pdf
+914,Contingency Planning for Information Systems: Updated Guide for Federal Organizations,ITL Bulletin,,Final,7/20/2010,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2010-07.pdf
+915,How to Identify Personnel with Significant Responsibilities for Information Security,ITL Bulletin,,Final,6/22/2010,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2010-06.pdf
+916,Guide to Protecting Personally Identifiable Information,ITL Bulletin,,Final,4/28/2010,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2010-04.pdf
+917,Revised Guide Helps Federal Organizations Improve Their Risk Management Practices and Information System Security,ITL Bulletin,,Final,3/29/2010,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2010-03.pdf
+918,Secure Management of Keys in Cryptographic Applications: Guidance for Organizations,ITL Bulletin,,Final,2/24/2010,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2010-02.pdf
+919,Security Metrics: Measurements to Support the Continued Development of Information Security Technology,ITL Bulletin,,Final,1/27/2010,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2010-01.pdf
+920,Cybersecurity Fundamentals for Small Business Owners,ITL Bulletin,,Final,11/19/2009,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2009-11.pdf
+921,Protecting Information Systems with Firewalls: Revised Guidelines on Firewall Technologies and Policies,ITL Bulletin,,Final,10/29/2009,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2009-10.pdf
+922,Random vs. Combinatorial Methods for Discrete Event Simulation of a Grid Computer Network,Conference Paper,,Final,10/16/2009,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=904044
+923,Risk Management Framework:  Helping Organizations Implement Effective Information Security Programs,ITL Bulletin,,Final,7/23/2009,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2009-07.pdf
+924,Cyber Security Standards,Book Section,,Final,6/15/2009,https://csrc.nist.govhttp://www.wiley.com/WileyCDA/WileyTitle/productCd-0471761303.html
+925,The Cryptographic Hash Algorithm Family: Revision of the Secure Hash Standard and Ongoing Competition for New Hash Algorithms,ITL Bulletin,,Final,3/25/2009,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2009-03.pdf
+926,Using Personal Identity Verification (Piv) Credentials in Physical Access Control Systems (PACS),ITL Bulletin,,Final,2/26/2009,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2009-02.pdf
+927,Assurance for Identity Enabled Authorization Policies,Book Section,,Final,12/19/2008,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=152171
+928,Identity Enabled Privacy Policies,Book Section,,Final,12/19/2008,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=152171
+929,Guide to Information Security Testing and Assessment,ITL Bulletin,,Final,12/18/2008,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2008-12.pdf
+930,Keeping Information Technology (IT) System Servers Secure:  A General Guide to Good Practices,ITL Bulletin,,Final,10/15/2008,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2008-10.pdf
+931,Electronic Voting,Book Section,,Final,10/07/2008,https://www.britannica.com/topic/electronic-voting
+932,Using Performance Measurements to Evaluate and Strengthen Information System Security,ITL Bulletin,,Final,9/18/2008,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2008-09.pdf
+933,Guidelines on Implementing A Secure Sockets Layer (SSL) Virtual Private Network (VPN),ITL Bulletin,,Final,7/23/2008,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2008-07.pdf
+934,Automated Combinatorial Test Methods Beyond Pairwise Testing,Journal Article,,Final,6/02/2008,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=152162
+935,New Cryptographic Hash Algorithm Family: NIST Holds a Public Competition to Find New Algorithms,ITL Bulletin,,Final,5/28/2008,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2008-05.pdf
+936,Using Active Content and Mobile Code and Safeguarding the Security of Information Technology Systems,ITL Bulletin,,Final,4/24/2008,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2008-04.pdf
+937,Federal Desktop Core Configuration (FDCC): Improving Security for Windows Desktop Operating Systems,ITL Bulletin,,Final,2/27/2008,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2008-02.pdf
+938,Secure Web Servers Protecting Web Sites that are Accessed by the Public,ITL Bulletin,,Final,1/31/2008,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2008-01.pdf
+939,Using Storage Encryption Technologies to Protect End User Devices,ITL Bulletin,,Final,11/26/2007,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2007-11.pdf
+940,The Common Vulnerability Scoring System (CVSS),ITL Bulletin,,Final,10/25/2007,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2007-10.pdf
+941,Forensic Techniques for Cell Phones,ITL Bulletin,,Final,6/27/2007,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2007-06.pdf
+942,Securing Radio Frequency Identification (RFID) Systems,ITL Bulletin,,Final,5/17/2007,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2007-05.pdf
+943,Improving The Security of Electronic Mail: Updated Guidelines Issued by NIST,ITL Bulletin,,Final,3/28/2007,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2007-03.pdf
+944,Intrusion Detection and Prevention Systems,ITL Bulletin,,Final,2/26/2007,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2007-02.pdf
+945,"Maintaining Effective Information Technology (IT) Security Through Test, Training, and Exercise Programs",ITL Bulletin,,Final,12/19/2006,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2006-12.pdf
+946,Guide to Securing Computers Using Windows XP Home Edition,ITL Bulletin,,Final,11/22/2006,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2006-11.pdf
+947,Log Management: Using Computer and Network Records to Improve Information Security,ITL Bulletin,,Final,10/25/2006,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2006-10.pdf
+948,Forensic Techniques: Helping Organizations Improve Their Responses to Information Security Incidents,ITL Bulletin,,Final,9/27/2006,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2006-09.pdf
+949,Protecting Sensitive Information Processed and Stored in Information Technology (IT) Systems,ITL Bulletin,,Final,8/30/2006,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2006-08.pdf
+950,Protecting Sensitive Information Transmitted in Public Networks,ITL Bulletin,,Final,4/21/2006,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2006-04.pdf
+951,Minimum Security Requirements for Federal Information and Information Systems: Federal Information Processing Standard (FIPS) 200 Approved by the Secretary of Commerce,ITL Bulletin,,Final,3/24/2006,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2006-03.pdf
+952,Creating a Program to Manage Security Patches and Vulnerabilities: NIST Recommendations for Improving System Security,ITL Bulletin,,Final,2/15/2006,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2006-02.pdf
+953,Testing and Validation of Personal Identity Verification (PIV) Components and Subsystems for Conformance to Federal Information Processing Standard 201,ITL Bulletin,,Final,1/25/2006,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2006-01.pdf
+954,"Implementation of FIPS 201, Personal Identity Verification (PIV) of Federal Employees and Contractors",ITL Bulletin,,Final,8/01/2005,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2005-08.pdf
+955,Integrating IT Security into the Capital Planning and Investment Control Process,ITL Bulletin,,Final,1/27/2005,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2005-01.pdf
+956,Securing Voice Over Internet Protocol (IP) Networks,ITL Bulletin,,Final,10/01/2004,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2004-10.pdf
+957,Information Security Within the System Development Life Cycle (SDLC),ITL Bulletin,,Final,9/01/2004,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2004-09.pdf
+958,"Information Technology Security Services: How to Select, Implement, and Manage",ITL Bulletin,,Final,6/01/2004,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2004-06.pdf
+959,Selecting Information Technology Security Products,ITL Bulletin,,Final,4/28/2004,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2004-04.pdf
+960,"Federal Information Processing Standard (FIPS) 199, Standards for Security Categorization of Federal Information and Information Systems",ITL Bulletin,,Final,3/01/2004,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2004-03.pdf
+961,"Information Technology Security Awareness, Training, Education, and Certification",ITL Bulletin,,Final,10/15/2003,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2003-10.pdf
+962,Testing Intrusion Detection Systems,ITL Bulletin,,Final,7/01/2003,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2003-07.pdf
+963,ASSET: Security Assessment Tool for Federal Agencies,ITL Bulletin,,Final,6/01/2003,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2003-06.pdf
+964,Secure Interconnections for Information Technology Systems,ITL Bulletin,,Final,2/26/2003,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2003-02.pdf
+965,Overview: The Government Smart Card Interoperability Specification,ITL Bulletin,,Final,7/01/2002,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2002-07.pdf
+966,Techniques for System and Data Recovery,ITL Bulletin,,Final,4/01/2002,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2002-04.pdf
+967,Data Encryption Standard,Book Section,,Final,1/01/2001,https://nvlpubs.nist.gov/nistpubs/sp958-lide/250-253.pdf
+968,Proceedings of the 23rd National Information Systems Security Conference,Conference Paper,,Final,10/19/2000,https://csrc.nist.gov/files/pubs/conference/2000/10/19/proceedings-of-the-23rd-nissc-2000/final/docs/toc.pdf
+969,Business Process Driven Framework for Defining an Access Control Service Based on Roles and Rules,Conference Paper,,Final,10/19/2000,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=151214
+970,Identifying Critical Patches with ICAT,ITL Bulletin,,Final,7/01/2000,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul2000-07.pdf
+971,Proceedings of the 22nd National Information Systems Security Conference,Conference Paper,,Final,10/21/1999,https://csrc.nist.gov/files/pubs/conference/1999/10/21/proceedings-of-the-22nd-nissc-1999/final/docs/toc.pdf
+972,Role-Based Access Control Features in Commercial Database Management Systems,Conference Paper,,Final,10/09/1998,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=916539
+973,Proceedings of the 21st National Information Systems Security Conference,Conference Paper,,Final,10/08/1998,https://csrc.nist.gov/files/pubs/conference/1998/10/08/proceedings-of-the-21st-nissc-1998/final/docs/toc.pdf
+974,Inheritance Properties of Role Hierarchies,Conference Paper,,Final,10/06/1998,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=916542
+975,Training Requirements for Information Technology Security: An Introduction to Results-Based Learning,ITL Bulletin,,Final,4/01/1998,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul1998-04.pdf
+976,Management of Risks in Information Systems: Practices of Successful Organizations,ITL Bulletin,,Final,3/19/1998,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul1998-03.pdf
+977,Information Security and the World Wide Web (WWW),ITL Bulletin,,Final,2/12/1998,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul1998-02.pdf
+978,Internet Electronic Mail,ITL Bulletin,,Final,11/25/1997,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul1997-11.pdf
+979,Proceedings of the 20th National Information Systems Security Conference,Conference Paper,,Final,10/10/1997,https://csrc.nist.gov/files/pubs/conference/1997/10/10/proceedings-of-the-20th-nissc-1997/final/docs/20th-nissc-proceedings-1997.zip
+980,Role Based Access Control for the World Wide Web,Conference Paper,,Final,10/10/1997,https://csrc.nist.gov/files/pubs/conference/1997/10/10/role-based-access-control-for-the-world-wide-web/final/docs/barkley-et-al-97.pdf
+981,Public Key Infrastructure Technology,ITL Bulletin,,Final,7/01/1997,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul1997-07.pdf
+982,U.S. Government Activities to Protect the Information Infrastructure,Conference Paper,,Final,4/01/1997,https://csrc.nist.gov/files/pubs/conference/1997/04/01/us-govt-activities-to-protect-the-information-infr/final/docs/usgovii.pdf
+983,Security Considerations in Computer Support and Operations,ITL Bulletin,,Final,4/01/1997,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul1997-04.txt
+984,Audit Trails,ITL Bulletin,,Final,3/01/1997,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul1997-03.txt
+985,Advanced Encryption Standard (AES),ITL Bulletin,,Final,2/01/1997,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul1997-02.txt
+986,Security Issues for Telecommuting,ITL Bulletin,,Final,1/01/1997,https://csrc.nist.gov/files/pubs/shared/itlb/itlbul1997-01.txt
+987,Proceedings of the 19th National Information Systems Security Conference,Conference Paper,,Final,10/22/1996,https://csrc.nist.gov/files/pubs/conference/1996/10/22/proceedings-of-the-19th-nissc-1996/final/docs/19th-nissc-proceedings-toc.pdf
+988,Generally Accepted System Security Principles (GSSPs): Guidance on Securing Information Technology (IT) Systems,ITL Bulletin,,Final,10/01/1996,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1996-10.txt
+989,Implementation Issues for Cryptography,ITL Bulletin,,Final,8/01/1996,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1996-08.txt
+990,Information Security Policies for Changing Information Technology Environments,ITL Bulletin,,Final,6/01/1996,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1996-06.txt
+991,The World Wide Web: Managing Security Risks,ITL Bulletin,,Final,5/01/1996,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1996-05.txt
+992,Human/Computer Interface Security Issues,ITL Bulletin,,Final,2/01/1996,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1996-02.txt
+993,Role-Based Access Control (RBAC): Features and Motivations,Conference Paper,,Final,12/15/1995,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=916537
+994,Proceedings of the 18th National Information Systems Security Conference,Conference Paper,,Final,10/10/1995,https://csrc.nist.gov/files/pubs/conference/1995/10/10/proceedings-of-the-18th-nissc-1995/final/docs/1995-18th-nissc-proceedings-vol-1.pdf
+995,FIPS 140-1: A Framework for Cryptographic Standards,ITL Bulletin,,Final,8/01/1995,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1995-08.txt
+996,The Data Encryption Standard: An Update,ITL Bulletin,,Final,2/01/1995,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1995-02.txt
+997,Digital Signature Standard,ITL Bulletin,,Final,11/01/1994,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1994-11.txt
+998,Proceedings of the 17th National Computer Security Conference,Conference Paper,,Final,10/11/1994,https://csrc.nist.gov/files/pubs/conference/1994/10/11/proceedings-17th-national-computer-security-confer/final/docs/1994-17th-ncsc-proceedings-vol-1.pdf
+999,Reducing the Risks of Internet Connection and Use,ITL Bulletin,,Final,5/01/1994,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1994-05.txt
+1000,Threats to Computer Systems: An Overview,ITL Bulletin,,Final,3/01/1994,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1994-03.txt
+1001,Security of the Integrated Service Digital Network,Book Section,,Final,12/31/1993,https://archive.org/details/handbookofinform0000unse_g9q5/page/626/mode/2up
+1002,Security of OSI-based Networks,Book Section,,Final,12/31/1993,https://archive.org/details/handbookofinform0000unse_g9q5/page/617/mode/2up
+1003,Cryptography,Book Section,,Final,12/31/1993,https://archive.org/details/handbookofinform0000unse_g9q5/page/653/mode/2up
+1004,An Integrity Model is Needed for Computerized Voting and Similar Systems,Conference Paper,,Final,9/20/1993,https://csrc.nist.gov/CSRC/media/Publications/conference-paper/1993/09/20/proceedings-16th-national-computer-security-conference-1993/documents/1993-16th-NCSC-proceedings.pdf#page=491
+1005,Proceedings of the 16th National Computer Security Conference,Conference Paper,,Final,9/20/1993,https://csrc.nist.gov/files/pubs/conference/1993/09/20/proceedings-16th-national-computer-security-confer/final/docs/1993-16th-ncsc-proceedings.pdf
+1006,Choosing Among Standards for Lower Layer Security Protocols,Conference Paper,,Final,9/20/1993,https://csrc.nist.gov/CSRC/media/Publications/conference-paper/1993/09/20/proceedings-16th-national-computer-security-conference-1993/documents/1993-16th-NCSC-proceedings.pdf#page=236
+1007,Security Program Management,ITL Bulletin,,Final,8/01/1993,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1993-08.txt
+1008,Connecting to the Internet: Security Considerations,ITL Bulletin,,Final,7/01/1993,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1993-07.txt
+1009,Guidance on the Legality of Keystroke Monitoring,ITL Bulletin,,Final,3/01/1993,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1993-03.txt
+1010,An Overview of the Advanced Smartcard Access Control System (ASACS),Conference Paper,,Final,2/11/1993,https://csrc.nist.gov/files/pubs/conference/1993/02/11/an-overview-of-asacs/final/docs/draybalenson-1993-asacs.pdf
+1011,Sensitivity of Information,ITL Bulletin,,Final,11/01/1992,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1992-11.txt
+1012,Proceedings of the 15th National Computer Security Conference,Conference Paper,,Final,10/13/1992,https://csrc.nist.gov/files/pubs/conference/1992/10/13/proceedings-15th-national-computer-security-confer/final/docs/1992-15th-ncsc-proceedings-vol-1.pdf
+1013,Role-Based Access Controls,Conference Paper,,Final,10/13/1992,https://csrc.nist.gov/files/pubs/conference/1992/10/13/rolebased-access-controls/final/docs/ferraiolo-kuhn-92.pdf
+1014,An Introduction to Secure Telephone Terminals,ITL Bulletin,,Final,3/01/1992,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1992-03.txt
+1015,Establishing a Computer Security Incident Handling Capability,ITL Bulletin,,Final,2/01/1992,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1992-02.txt
+1016,Advanced Authentication Technology,ITL Bulletin,,Final,11/01/1991,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1991-11.txt
+1017,High Integrity Software Standards Activities at NIST,Conference Paper,,Final,10/07/1991,https://csrc.nist.govhttp://www.uploads.pnsqc.org/proceedings/pnsqc1991.pdf
+1018,Proceedings of the 14th National Computer Security Conference,Conference Paper,,Final,10/01/1991,https://csrc.nist.gov/files/pubs/conference/1991/10/01/proceedings-14th-national-computer-security-confer/final/docs/1991-14th-ncsc-proceedings-vol-1.pdf
+1019,Security Issues in the Use of Electronic Data Interchange,ITL Bulletin,,Final,6/01/1991,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1991-06.txt
+1020,FIPS 140: A Standard in Transition,ITL Bulletin,,Final,4/01/1991,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1991-04.pdf
+1021,Computer Security Roles of NIST and NSA,ITL Bulletin,,Final,2/01/1991,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1991-02.txt
+1022,Proceedings of the 13th National Computer Security Conference,Conference Paper,,Final,10/01/1990,https://csrc.nist.gov/files/pubs/conference/1990/10/01/proceedings-13th-national-computer-security-confer/final/docs/1990-13th-ncsc-proceedings-vol-1.pdf
+1023,Computer Virus Attacks,ITL Bulletin,,Final,8/01/1990,https://csrc.nist.gov/files/pubs/shared/itlb/ncslbul1990-08.txt
+1024,Proceedings of the 12th National Computer Security Conference,Conference Paper,,Final,10/10/1989,https://csrc.nist.gov/files/pubs/conference/1989/10/10/proceedings-12th-national-computer-security-confer/final/docs/1989-12th-ncsc-proceedings.pdf
+1025,A Token Based Access Control System for Computer Networks,Conference Paper,,Final,10/10/1989,https://csrc.nist.gov/files/pubs/conference/1989/10/10/a-token-based-access-control-system-for-computer-n/final/docs/smiddraywarnar-1989-tbacs.pdf
+1026,Proceedings of the 11th National Computer Security Conference,Conference Paper,,Final,10/17/1988,https://csrc.nist.gov/files/pubs/conference/1988/10/17/proceedings-11th-national-computer-security-confer/final/docs/1988-11th-ncsc-proceedings.pdf
+1027,Proceedings of the 10th National Computer Security Conference,Conference Paper,,Final,9/21/1987,https://csrc.nist.gov/files/pubs/conference/1987/09/21/proceedings-10th-national-computer-security-confer/final/docs/1987-10th-ncsc-proceedings.pdf
+1028,Proceedings of the 9th National Computer Security Conference,Conference Paper,,Final,9/15/1986,https://csrc.nist.gov/files/pubs/conference/1986/09/15/proceedings-9th-national-computer-security-confere/final/docs/1986-9th-ncsc-proceedings.pdf
+1029,Proceedings of the 8th National Computer Security Conference,Conference Paper,,Final,9/30/1985,https://csrc.nist.gov/files/pubs/conference/1985/09/30/proceedings-8th-national-computer-security-confere/final/docs/1985-8th-ncsc-proceedings.pdf
+1030,7th DoD/NBS Computer Security Conference,Conference Paper,,Final,9/24/1984,https://csrc.nist.gov/files/pubs/conference/1984/09/24/7th-dodnbs-computer-security-conference/final/docs/1984-7th-conference-proceedings.pdf
+1031,Proceedings of the Sixth Seminar on the DoD Computer Security Initiative,Conference Paper,,Final,11/15/1983,https://csrc.nist.gov/files/pubs/conference/1983/11/15/proceedings-6th-seminar-on-the-dod-computer-securi/final/docs/1983-6th-seminar-proceedings.pdf
+1032,Proceedings of the Fifth Seminar on the DoD Computer Security Initiative,Conference Paper,,Final,5/24/1982,https://csrc.nist.gov/files/pubs/conference/1982/05/24/proceedings-5th-seminar-dod-computer-security-init/final/docs/1982-5th-seminar-proceedings.pdf
+1033,Proceedings of the Fourth Seminar on the DoD Computer Security Initiative,Conference Paper,,Final,8/10/1981,https://csrc.nist.gov/files/pubs/conference/1981/08/10/proceedings-4th-seminar-dod-computer-security-init/final/docs/1981-4th-seminar-proceedings.pdf
+1034,Proceedings of the Third Seminar on the DoD Computer Security Initiative Program,Conference Paper,,Final,11/18/1980,https://csrc.nist.gov/files/pubs/conference/1980/11/18/proceedings-3rd-seminar-dod-computer-security-init/final/docs/1980-3rd-seminar-proceedings.pdf
+1035,Proceedings of the Second Seminar on the DoD Computer Security Initiative Program,Conference Paper,,Final,1/15/1980,https://csrc.nist.gov/files/pubs/conference/1980/01/15/proceedings-2nd-seminar-dod-computer-security-init/final/docs/1980-2nd-seminar-proceedings.pdf
+1036,Proceedings of the Seminar on the DoD Computer Security Initiative Program,Conference Paper,,Final,7/17/1979,https://csrc.nist.gov/files/pubs/conference/1979/07/17/proceedings-first-seminar-dod-computer-security-in/final/docs/1979-1st-seminar-proceedings.pdf
